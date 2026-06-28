@@ -1,9 +1,9 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T19:47:00+10:00",
-  "posture": "Elevated — the NSW Coalition's plan to cap the New England REZ and remove its 500kV Bayswater link is now the dominant risk, landing days before the draft access-scheme consultation opens.",
-  "summary": "Politics overtook delivery this week: the Coalition opposition broke energy-transition bipartisanship with a plan to cap New England, scrap its main transmission line and pivot to city REZs, drawing expert criticism and a consultation backlash from some host councils. Against that backdrop EnergyCo's draft New England access-scheme declaration is due to open by end June, and the project's federal environmental approval is still pending. No new delivery or supply-chain shocks surfaced over the weekend.",
-  "counts": { "act": 1, "watch": 2, "inform": 3 },
+  "generated_at": "2026-06-28T19:59:00+10:00",
+  "posture": "Elevated — a political-plus-community pincer on the New England REZ now dominates: the Coalition's plan to cap the zone and scrap its 500kV Bayswater link landed days before a 22,000-signature petition was debated in parliament, with the access-scheme consultation due to open into a hostile climate.",
+  "summary": "The New England REZ remains the centre of risk. The Coalition's mid-week energy platform — capping New England, removing its planned 500kV line to Bayswater and pivoting to 'city' zones — has been compounded by a packed parliamentary debate on a 22,272-signature anti-transmission petition, with the government not engaging. EnergyCo's draft New England access-scheme declaration is due to open by end June into this contested backdrop, while federal environmental approval for the backbone is still pending. No new delivery, market or supply-chain shocks surfaced over the weekend.",
+  "counts": { "act": 1, "watch": 3, "inform": 3 },
   "sections": [
     {
       "category": "Political & Policy",
@@ -11,19 +11,19 @@
         {
           "severity": "act",
           "headline": "Coalition would cap New England REZ and scrap its 500kV Bayswater transmission link",
-          "summary": "The NSW Coalition unveiled an energy policy that breaks longstanding bipartisan support for the regional REZ model, proposing to cap the New England zone at its current level, remove the planned 500kV line connecting it to the grid near Bayswater, and prioritise upgrades to existing infrastructure instead.",
+          "summary": "The NSW Coalition unveiled an energy platform that breaks longstanding bipartisan support for regional REZs, proposing to cap the New England zone at its current capacity, cancel the planned 500kV line connecting it to Bayswater Power Station in the Hunter, and redirect focus to smaller 'city' renewable zones in Sydney, Newcastle and Wollongong if elected next March.",
           "so_what": "This directly threatens the business case and delivery path for NSW's largest planned REZ and injects election-cycle policy risk into every New England milestone. The risk function should pressure-test New England exposure under a change-of-government scenario and watch for developer and investor hesitancy on connection commitments.",
           "rez_tags": ["New England"],
           "source": "RenewEconomy",
           "url": "https://reneweconomy.com.au/not-consulted-local-councils-in-the-dark-on-lnp-plan-to-scrap-huge-renewable-zone-and-evaporate-benefits/",
-          "published": "2026-06-25",
+          "published": "2026-06-24",
           "paywall": false
         },
         {
           "severity": "watch",
           "headline": "Energy experts criticise opposition plan to pause major transmission upgrades",
-          "summary": "Analysts and industry figures pushed back on the opposition's proposal to pause transmission build-out, arguing it would raise costs and slow the replacement of retiring coal rather than ease bills.",
-          "so_what": "The contested expert response signals the policy will be fought publicly rather than settled, prolonging the period of strategic uncertainty around New England and transmission investment.",
+          "summary": "Analysts and industry figures pushed back on the opposition's proposal to pause transmission build-out, arguing it would raise costs and slow the replacement of retiring coal rather than ease power bills.",
+          "so_what": "The contested expert response signals the policy will be fought publicly rather than settled quickly, prolonging the period of strategic uncertainty around New England and transmission investment.",
           "rez_tags": ["New England"],
           "source": "RenewEconomy",
           "url": "https://reneweconomy.com.au/definitely-not-good-policy-experts-skewer-lnp-plan-to-pause-major-transmission-upgrades/",
@@ -33,7 +33,7 @@
         {
           "severity": "inform",
           "headline": "Opposition frames pivot as 'city energy zones' across Sydney, Newcastle and Wollongong",
-          "summary": "Coalition messaging positions the shift as moving generation closer to demand through urban renewable energy zones, with leadership saying cities should 'share the load' of the transition.",
+          "summary": "Coalition messaging positions the shift as moving generation closer to demand through urban renewable zones, with leadership arguing cities should 'share the load' of the transition.",
           "so_what": "A competing narrative that reframes regional REZs as an imposition on the bush is a reputational and social-licence variable EnergyCo will need to counter in its own community engagement.",
           "rez_tags": ["New England", "Hunter-Central Coast", "Illawarra"],
           "source": "The Land",
@@ -44,13 +44,40 @@
       ]
     },
     {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "22,000-signature anti-transmission petition debated in NSW Parliament as hundreds travel to Sydney",
+          "summary": "A petition of 22,272 signatures led by the Walcha High Country Guardians, calling for the New England transmission corridor to be cancelled, was tabled by the Member for Northern Tablelands and debated before a packed public gallery, with more than 300 regional residents travelling to Parliament House; campaigners said the government did not engage with the debate.",
+          "so_what": "Organised opposition to the New England line has now reached a high-profile parliamentary platform, and a perceived government no-show hands campaigners a reputational win days before the access-scheme consultation opens. EnergyCo should expect well-mobilised submissions and prepare proactive engagement to avoid ceding the public narrative.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/06/26/packed-gallery-hears-22000-signature-new-england-transmission-petition-debate/",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Legal analysis warns social-licence failures are stalling renewable and transmission projects",
+          "summary": "A law-firm analysis argues that inadequate community consultation and landholder backlash are increasingly delaying, redesigning or cancelling renewable and transmission projects across Australia, including in NSW REZs.",
+          "so_what": "Reinforces that consultation quality is now a material delivery risk, not just a reputational one, and supports continued investment in EnergyCo's landholder and community engagement ahead of the access-scheme consultation.",
+          "rez_tags": ["New England", "Central-West Orana", "South West"],
+          "source": "McCullough Robertson",
+          "url": "https://mccullough.com.au/2026/06/25/social-licence-failures-and-landholder-backlash-in-australias-renewable-energy-rollout/",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
       "category": "Regulatory & Approvals",
       "items": [
         {
           "severity": "watch",
           "headline": "Draft New England access-scheme declaration due to open for consultation by end June",
           "summary": "EnergyCo has signalled the draft New England REZ Access Scheme Declaration will be released for public consultation by the end of June, with a final ministerial declaration targeted for end September.",
-          "so_what": "The consultation window lands amid a hostile political backdrop, so submissions are a leading indicator of organised opposition; the September declaration timeline is now a milestone to protect against political slippage.",
+          "so_what": "The consultation window opens amid a hostile political and community backdrop, so submissions are a leading indicator of organised opposition; the September declaration timeline is now a milestone to protect against political slippage.",
           "rez_tags": ["New England"],
           "source": "EnergyCo NSW",
           "url": "https://www.energyco.nsw.gov.au/industry/access-schemes/new-england-rez-access-scheme",
@@ -59,29 +86,13 @@
         },
         {
           "severity": "inform",
-          "headline": "EnergyCo still seeking federal environmental sign-off for 315km New England backbone",
-          "summary": "EnergyCo is pursuing federal approval for the roughly 315km, 6GW New England transmission backbone, a process running alongside the state planning and access-scheme work.",
-          "so_what": "Federal EPBC approval is an external critical-path dependency outside EnergyCo's control; any delay there compounds the political risk already weighing on New England's schedule.",
+          "headline": "Federal environmental sign-off still pending for New England transmission backbone",
+          "summary": "EnergyCo continues to pursue federal approval for the New England 500kV transmission backbone — roughly 220km of dual lines from Bayswater plus around 100km linking energy hubs — a process running alongside the state planning and access-scheme work.",
+          "so_what": "Federal EPBC approval is an external critical-path dependency outside EnergyCo's control; any delay there compounds the political and community risk already weighing on New England's schedule.",
           "rez_tags": ["New England"],
           "source": "pv magazine Australia",
           "url": "https://www.pv-tech.org/australia-energyco-seeks-federal-approval-for-6gw-new-england-rez-transmission-backbone-spanning-315km/",
           "published": "2026-06-26",
-          "paywall": false
-        }
-      ]
-    },
-    {
-      "category": "Social Licence & Community",
-      "items": [
-        {
-          "severity": "inform",
-          "headline": "Legal analysis warns social-licence failures are stalling renewable and transmission projects",
-          "summary": "A law-firm analysis argues that inadequate community consultation and landholder backlash are increasingly delaying, redesigning or cancelling renewable and transmission projects across Australia, including in NSW REZs.",
-          "so_what": "Reinforces that consultation quality is now a material delivery risk, not just a reputational one; supports continued investment in EnergyCo's landholder and community engagement ahead of the access-scheme consultation.",
-          "rez_tags": ["New England", "Central-West Orana", "South West"],
-          "source": "McCullough Robertson",
-          "url": "https://mccullough.com.au/2026/06/25/social-licence-failures-and-landholder-backlash-in-australias-renewable-energy-rollout/",
-          "published": "2026-06-25",
           "paywall": false
         }
       ]
