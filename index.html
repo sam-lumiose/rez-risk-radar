@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>REZ Risk Radar — NSW EnergyCo daily digest</title>
+  <meta name="description" content="A daily risk-intelligence digest tracking emerging signals across NSW's Renewable Energy Zones.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <div class="brand">
+        <h1 id="brand-title">REZ Risk Radar</h1>
+        <span class="mark">NSW · Daily</span>
+      </div>
+      <p class="tagline" id="tagline">Emerging-risk signals across NSW's Renewable Energy Zones, read for the EnergyCo risk function.</p>
+    </div>
+    <svg class="voltage" viewBox="0 0 1200 26" preserveAspectRatio="none" aria-hidden="true">
+      <path d="M0,13 L260,13 L300,3 L340,23 L380,13 L760,13 L800,3 L840,23 L880,13 L1200,13"/>
+      <circle cx="300" cy="3" r="2.5"/><circle cx="380" cy="13" r="2.5"/>
+      <circle cx="800" cy="3" r="2.5"/><circle cx="880" cy="13" r="2.5"/>
+    </svg>
+  </header>
+
+  <main class="wrap">
+    <div class="digest-head">
+      <div class="eyebrow">Latest digest</div>
+      <div class="digest-date" id="digest-date">Loading…</div>
+      <p class="posture" id="posture"></p>
+      <div class="counts" id="counts"></div>
+    </div>
+
+    <div class="shell">
+      <div id="body"><div class="loading">Loading signals…</div></div>
+      <aside class="rail">
+        <h2>Archive</h2>
+        <ul class="archive" id="archive"></ul>
+      </aside>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>REZ Risk Radar · generated daily via Claude Cowork</span>
+      <span>Headlines summarised; follow source links for full reporting.</span>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

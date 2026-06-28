@@ -1,0 +1,27 @@
+{
+  "site": {
+    "title": "REZ Risk Radar",
+    "owner": "NSW EnergyCo — Risk Function (demo)",
+    "tagline": "Emerging-risk signals across NSW's Renewable Energy Zones, read for the EnergyCo risk function."
+  },
+  "digests": [
+    {
+      "date": "2026-06-28",
+      "file": "data/digests/2026-06-28.json",
+      "posture": "Elevated — New England EIS timing and South West connection certainty are the live items.",
+      "counts": { "act": 2, "watch": 4, "inform": 4 }
+    },
+    {
+      "date": "2026-06-27",
+      "file": "data/digests/2026-06-27.json",
+      "posture": "Steady — community-benefit and logistics news, no action items.",
+      "counts": { "act": 0, "watch": 2, "inform": 3 }
+    },
+    {
+      "date": "2026-06-26",
+      "file": "data/digests/2026-06-26.json",
+      "posture": "Watch — landholder sentiment in New England warrants monitoring.",
+      "counts": { "act": 0, "watch": 3, "inform": 2 }
+    }
+  ]
+}

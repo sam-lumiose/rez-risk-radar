@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T06:01:00+10:00",
+  "posture": "Steady — community-benefit and logistics news, no action items.",
+  "counts": { "act": 0, "watch": 2, "inform": 3 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "First $60m in New England community benefits unlocked",
+          "summary": "The first tranche of community benefit funding tied to the New England REZ was announced.",
+          "so_what": "A positive social-licence data point; track how allocation lands locally.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/latest-updates",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Eligible benefit area expanded to towns outside the South West REZ boundary",
+          "summary": "Coleambally, Jerilderie and Deniliquin were added as eligible for benefit funding despite sitting outside the zone boundary.",
+          "so_what": "Boundary expansions can set precedent and invite further claims from adjacent communities.",
+          "rez_tags": ["South West"],
+          "source": "The Land",
+          "url": "https://www.theland.com.au/",
+          "published": "2026-06-26",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "Supply Chain & Logistics",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Golden Highway weekend closures scheduled for OSOM corridor works",
+          "summary": "Planned weekend closures on the Golden Highway were flagged to accommodate corridor upgrade works.",
+          "so_what": "Coordinated traffic messaging reduces community-complaint risk during disruption.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "Transport for NSW",
+          "url": "https://www.transport.nsw.gov.au/projects/current-projects/renewables-transportation-%E2%80%93-port-to-renewable-energy-zones-rez",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "ACEREZ reports local supplier and Aboriginal-business engagement on Central-West Orana",
+          "summary": "The network operator reported a growing register of local and Aboriginal-owned businesses engaged on the transmission build.",
+          "so_what": "Supports the local-benefit narrative underpinning social licence.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/news/landmark-moment-australias-first-renewable-energy-zone",
+          "published": "2026-06-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Network operator procurement for New England progressing",
+          "summary": "The network-operator process for New England continues after an earlier shortlist announcement.",
+          "so_what": "Operator selection is a key delivery-confidence milestone for the zone.",
+          "rez_tags": ["New England"],
+          "source": "Infrastructure Pipeline",
+          "url": "https://infrastructurepipeline.org/project/nsw-renewable-energy-zones",
+          "published": "2026-06-24",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

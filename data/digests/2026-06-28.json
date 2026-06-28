@@ -1,0 +1,133 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T06:02:00+10:00",
+  "posture": "Elevated — New England EIS timing and South West connection certainty are the live items. Two ACT signals; supply-chain and social-licence remain WATCH.",
+  "summary": "Approvals timing on New England has slipped again, with the EIS now flagged for the second half of 2026. The South West funding package gives four projects connection certainty but concentrates counterparty exposure. Logistics and community-benefit news is steady.",
+  "counts": { "act": 2, "watch": 4, "inform": 4 },
+  "sections": [
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "New England EIS now flagged for second half of 2026, approvals pushed to 2027",
+          "summary": "EnergyCo's updated guidance has the Environmental Impact Statement going on public exhibition in H2 2026, with indicative planning approval in 2027 — later than earlier signalling.",
+          "so_what": "A further slip in New England's critical-path approval compresses the runway to the mid-2030s energisation target and raises schedule and contractor-standby exposure. Worth a planning-team check on whether downstream milestones still hold.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/ne/frequently-asked-questions",
+          "published": "2026-06-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Draft access-scheme declaration window expected to open in coming weeks",
+          "summary": "The Minister is expected to publish a draft declaration for at least 28 days of public submissions before a final access-scheme declaration.",
+          "so_what": "A predictable consultation gate, but the submissions it attracts are a leading indicator of organised opposition.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/ne/frequently-asked-questions",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "South West package unlocks 1.3 GW across four projects — but concentrates counterparty risk",
+          "summary": "A $225m state-budget investment underwrites grid upgrades letting four wind, solar and battery projects connect, covering more than half the zone's 2.5 GW capacity.",
+          "so_what": "Connection certainty is positive, but exposure now concentrates on a small set of developers (Origin, AGL, Someva, Spark, BayWa). A counterparty-health view across those names is warranted before access rights firm up.",
+          "rez_tags": ["South West"],
+          "source": "The Daily Advertiser",
+          "url": "https://www.dailyadvertiser.com.au/story/9289617/",
+          "published": "2026-06-25",
+          "paywall": true
+        },
+        {
+          "severity": "watch",
+          "headline": "Coverage frames REZ investment as downward pressure on bills as coal retires",
+          "summary": "Commentary continues to tie the REZ build-out to replacing retiring coal capacity and easing wholesale prices.",
+          "so_what": "Narrative is supportive for now; a shift toward cost-overrun framing would be the reputational signal to watch.",
+          "rez_tags": ["Central-West Orana", "South West"],
+          "source": "Australian Financial Review",
+          "url": "https://www.afr.com/",
+          "published": "2026-06-27",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Central-West Orana transmission build progressing after first tower raised",
+          "summary": "Construction on the first REZ's transmission network continues following the first 500 kV tower going up earlier in the year, with the zone forecast to ramp from 2028.",
+          "so_what": "On-track delivery on the lead REZ is the benchmark other zones are measured against.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/news/landmark-moment-australias-first-renewable-energy-zone",
+          "published": "2026-06-24",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Hunter-Central Coast Stage 1 marked complete",
+          "summary": "EnergyCo reported completion of the first stage of the Hunter-Central Coast REZ network project.",
+          "so_what": "Adds a second zone with demonstrable delivery progress; useful evidence for board-level confidence reporting.",
+          "rez_tags": ["Hunter-Central Coast"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/latest-updates",
+          "published": "2026-06-23",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Supply Chain & Logistics",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Port-to-REZ road upgrades targeting late-2026 completion remain on the OSOM critical path",
+          "summary": "Upgrades along the Port of Newcastle to Central-West Orana corridor are scheduled to finish in late 2026, enabling oversize/overmass turbine and transformer deliveries.",
+          "so_what": "Any weather or approvals slippage on the 320 km corridor directly constrains turbine erection schedules at multiple projects.",
+          "rez_tags": ["Central-West Orana", "New England"],
+          "source": "Transport for NSW",
+          "url": "https://www.transport.nsw.gov.au/projects/current-projects/renewables-transportation-%E2%80%93-port-to-renewable-energy-zones-rez",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "South West benefit-fund allocation method still being settled across host councils",
+          "summary": "Questions remain over how community benefit funding will be split among participating regional communities, with a grants-based model flagged based on the Central-West precedent.",
+          "so_what": "Allocation disputes are a recurring social-licence flashpoint; an unresolved method invites local friction during a sensitive consultation period.",
+          "rez_tags": ["South West"],
+          "source": "The Daily Advertiser",
+          "url": "https://www.dailyadvertiser.com.au/story/9289617/",
+          "published": "2026-06-25",
+          "paywall": true
+        },
+        {
+          "severity": "watch",
+          "headline": "New England OSOM route planning continues through host communities",
+          "summary": "Site investigations on the low-impact oversize route from Muswellbrook to the New England REZ continue, with road upgrades expected to start in 2026 pending approvals.",
+          "so_what": "Local-road impacts and notification handling are a known trigger for community complaint; coordinate messaging ahead of works.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/ne/frequently-asked-questions",
+          "published": "2026-06-24",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

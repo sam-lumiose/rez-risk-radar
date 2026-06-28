@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T06:03:00+10:00",
+  "posture": "Watch — landholder sentiment in New England warrants monitoring.",
+  "counts": { "act": 0, "watch": 3, "inform": 2 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Landholder concern over altered farming operations resurfaces in regional coverage",
+          "summary": "Regional reporting highlighted landholder concerns about farming disruption and local-road damage linked to renewable projects.",
+          "so_what": "Persistent landholder-impact framing is the leading edge of organised opposition; flag to community-engagement leads.",
+          "rez_tags": ["South West", "New England"],
+          "source": "ABC Regional",
+          "url": "https://www.abc.net.au/news",
+          "published": "2026-06-25",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "NSW Farmers commentary on transmission easement terms",
+          "summary": "Industry-body commentary continued to press on compensation and easement terms for host landholders.",
+          "so_what": "A credible stakeholder voice; shifts here move the negotiating climate for access agreements.",
+          "rez_tags": ["New England"],
+          "source": "NSW Farmers",
+          "url": "https://www.nswfarmers.org.au/",
+          "published": "2026-06-24",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Corridor refinement updates published for New England",
+          "summary": "EnergyCo published corridor-refinement material as route planning continues.",
+          "so_what": "Corridor changes reset affected-landholder lists and can reopen consultation friction.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/latest-updates",
+          "published": "2026-06-24",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Developer ASX disclosures reviewed — no material adverse items",
+          "summary": "A scan of key developer announcements surfaced nothing materially adverse for REZ-connected projects.",
+          "so_what": "Clean counterparty read for the day; baseline for trend detection.",
+          "rez_tags": ["Central-West Orana", "South West"],
+          "source": "ASX Announcements",
+          "url": "https://www.asx.com.au/markets/trade-our-cash-market/announcements.au",
+          "published": "2026-06-25",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "AEMO market notices reviewed — routine",
+          "summary": "Daily market notices contained no REZ-specific constraints of note.",
+          "so_what": "Operational baseline; escalate only on REZ-region constraints or connection events.",
+          "rez_tags": [],
+          "source": "AEMO",
+          "url": "https://www.aemo.com.au/market-notices",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
