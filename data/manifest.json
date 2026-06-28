@@ -6,10 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-06-29",
+      "file": "data/digests/2026-06-29.json",
+      "posture": "Watch — a quieter weekend after last week's political surge, with no new acute triggers. The standout signal is AEMO's 2026 ISP capacity picture: Central-West Orana overtakes New England as the state's largest REZ at 14GW, while New England's project pipeline (11GW) now runs ahead of its planned 8GW network capacity.",
+      "counts": { "act": 0, "watch": 1, "inform": 2 }
+    },
+    {
       "date": "2026-06-28",
       "file": "data/digests/2026-06-28.json",
-      "posture": "Elevated — a political-plus-community pincer on the New England REZ now dominates: the Coalition's plan to cap the zone and scrap its 500kV Bayswater link landed days before a 22,000-signature petition was debated in parliament, with the access-scheme consultation due to open into a hostile climate.",
-      "counts": { "act": 1, "watch": 3, "inform": 3 }
+      "posture": "Elevated — a political-plus-community pincer on the New England REZ still dominates: the Coalition's plan to cap the zone and scrap its 500kV Bayswater link, a 22,000-signature petition debated to a near-empty government bench, and the access-scheme consultation due to open into a hostile climate. A weekend counter-signal: a developer consortium is pushing AEMO to back a new far-west NSW renewables region.",
+      "counts": { "act": 1, "watch": 4, "inform": 4 }
     },
     {
       "date": "2026-06-27",

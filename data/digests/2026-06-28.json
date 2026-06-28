@@ -1,9 +1,9 @@
 {
   "date": "2026-06-28",
-  "generated_at": "2026-06-28T19:59:00+10:00",
-  "posture": "Elevated — a political-plus-community pincer on the New England REZ now dominates: the Coalition's plan to cap the zone and scrap its 500kV Bayswater link landed days before a 22,000-signature petition was debated in parliament, with the access-scheme consultation due to open into a hostile climate.",
-  "summary": "The New England REZ remains the centre of risk. The Coalition's mid-week energy platform — capping New England, removing its planned 500kV line to Bayswater and pivoting to 'city' zones — has been compounded by a packed parliamentary debate on a 22,272-signature anti-transmission petition, with the government not engaging. EnergyCo's draft New England access-scheme declaration is due to open by end June into this contested backdrop, while federal environmental approval for the backbone is still pending. No new delivery, market or supply-chain shocks surfaced over the weekend.",
-  "counts": { "act": 1, "watch": 3, "inform": 3 },
+  "generated_at": "2026-06-28T20:27:00+10:00",
+  "posture": "Elevated — a political-plus-community pincer on the New England REZ still dominates: the Coalition's plan to cap the zone and scrap its 500kV Bayswater link, a 22,000-signature anti-transmission petition debated to a near-empty government bench, and the access-scheme consultation due to open into a hostile climate. A weekend counter-signal: a developer consortium is pushing AEMO to back a new far-west NSW renewables region.",
+  "summary": "The New England REZ remains the centre of risk. The Coalition's energy platform — capping New England, scrapping its planned 500kV line to Bayswater and pivoting to 'city' zones — has been compounded by a 22,272-signature anti-transmission petition debated in parliament with the government largely absent, handing campaigners a reputational win days before EnergyCo's draft New England access-scheme declaration is due to open. On the market side, a six-company consortium used AEMO's Draft 2026 ISP to pitch a new far-west NSW 'Inland Renewable Energy Region', a possible signal of investor appetite shifting toward less-contested corridors. No new delivery or supply-chain shocks surfaced over the weekend.",
+  "counts": { "act": 1, "watch": 4, "inform": 4 },
   "sections": [
     {
       "category": "Political & Policy",
@@ -11,7 +11,7 @@
         {
           "severity": "act",
           "headline": "Coalition would cap New England REZ and scrap its 500kV Bayswater transmission link",
-          "summary": "The NSW Coalition unveiled an energy platform that breaks longstanding bipartisan support for regional REZs, proposing to cap the New England zone at its current capacity, cancel the planned 500kV line connecting it to Bayswater Power Station in the Hunter, and redirect focus to smaller 'city' renewable zones in Sydney, Newcastle and Wollongong if elected next March.",
+          "summary": "The NSW Coalition unveiled an energy platform that breaks longstanding bipartisan support for regional REZs, proposing to cap the New England zone, cancel the planned 500kV line connecting it to Bayswater Power Station in the Hunter, and redirect focus to smaller renewable zones in Sydney, Newcastle and Wollongong if elected next March.",
           "so_what": "This directly threatens the business case and delivery path for NSW's largest planned REZ and injects election-cycle policy risk into every New England milestone. The risk function should pressure-test New England exposure under a change-of-government scenario and watch for developer and investor hesitancy on connection commitments.",
           "rez_tags": ["New England"],
           "source": "RenewEconomy",
@@ -32,14 +32,14 @@
         },
         {
           "severity": "inform",
-          "headline": "Opposition frames pivot as 'city energy zones' across Sydney, Newcastle and Wollongong",
-          "summary": "Coalition messaging positions the shift as moving generation closer to demand through urban renewable zones, with leadership arguing cities should 'share the load' of the transition.",
-          "so_what": "A competing narrative that reframes regional REZs as an imposition on the bush is a reputational and social-licence variable EnergyCo will need to counter in its own community engagement.",
-          "rez_tags": ["New England", "Hunter-Central Coast", "Illawarra"],
-          "source": "The Land",
-          "url": "https://www.theland.com.au/story/9298684/nsw-nationals-and-liberals-reveal-urban-energy-zone-plan/",
-          "published": "2026-06-24",
-          "paywall": true
+          "headline": "New England councils say they were not consulted on opposition's REZ backflip",
+          "summary": "Local government leaders in the New England region said they were given no warning of the opposition's plan to review and revise the zone, and warned it would cancel out significant economic upside for their communities.",
+          "so_what": "Council pushback complicates the opposition's regional-relief framing and shows the policy is contested even among the rural constituencies it claims to defend — a nuance EnergyCo can use in its own engagement narrative.",
+          "rez_tags": ["New England"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/not-consulted-local-councils-in-the-dark-on-lnp-plan-to-scrap-huge-renewable-zone-and-evaporate-benefits/",
+          "published": "2026-06-25",
+          "paywall": false
         }
       ]
     },
@@ -49,8 +49,8 @@
         {
           "severity": "watch",
           "headline": "22,000-signature anti-transmission petition debated in NSW Parliament as hundreds travel to Sydney",
-          "summary": "A petition of 22,272 signatures led by the Walcha High Country Guardians, calling for the New England transmission corridor to be cancelled, was tabled by the Member for Northern Tablelands and debated before a packed public gallery, with more than 300 regional residents travelling to Parliament House; campaigners said the government did not engage with the debate.",
-          "so_what": "Organised opposition to the New England line has now reached a high-profile parliamentary platform, and a perceived government no-show hands campaigners a reputational win days before the access-scheme consultation opens. EnergyCo should expect well-mobilised submissions and prepare proactive engagement to avoid ceding the public narrative.",
+          "summary": "A petition of 22,272 signatures led by the Walcha High Country Guardians, calling for the New England transmission corridor to be cancelled, was tabled by the Member for Northern Tablelands and debated before a packed public gallery, with more than 300 regional residents travelling to Parliament House.",
+          "so_what": "Organised opposition to the New England line has reached a high-profile parliamentary platform days before the access-scheme consultation opens. EnergyCo should expect well-mobilised submissions and prepare proactive engagement to avoid ceding the public narrative.",
           "rez_tags": ["New England"],
           "source": "New England Times",
           "url": "https://www.netimes.com.au/2026/06/26/packed-gallery-hears-22000-signature-new-england-transmission-petition-debate/",
@@ -59,13 +59,40 @@
         },
         {
           "severity": "inform",
-          "headline": "Legal analysis warns social-licence failures are stalling renewable and transmission projects",
-          "summary": "A law-firm analysis argues that inadequate community consultation and landholder backlash are increasingly delaying, redesigning or cancelling renewable and transmission projects across Australia, including in NSW REZs.",
-          "so_what": "Reinforces that consultation quality is now a material delivery risk, not just a reputational one, and supports continued investment in EnergyCo's landholder and community engagement ahead of the access-scheme consultation.",
-          "rez_tags": ["New England", "Central-West Orana", "South West"],
-          "source": "McCullough Robertson",
-          "url": "https://mccullough.com.au/2026/06/25/social-licence-failures-and-landholder-backlash-in-australias-renewable-energy-rollout/",
-          "published": "2026-06-25",
+          "headline": "Campaigners seize on near-empty government bench during petition debate",
+          "summary": "Regional reporting highlighted that most government members left the chamber before the petition was presented, with campaigners framing the absence as the government refusing to engage with affected communities.",
+          "so_what": "A perceived government no-show hands opponents a fresh grievance and reputational momentum that can spill onto EnergyCo as the delivery agency, reinforcing the need for visible, good-faith consultation.",
+          "rez_tags": ["New England"],
+          "source": "Moree Champion",
+          "url": "https://www.moreechampion.com.au/story/9299909/walcha-high-country-guardians-government-skips-critical-debate/",
+          "published": "2026-06-27",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Developer consortium pitches new far-west NSW 'Inland Renewable Energy Region' to AEMO",
+          "summary": "A six-company group — Iberdrola, Tilt Renewables, Squadron Energy, ACCIONA, Ark Energy and Voyager Renewables — used a submission to AEMO's Draft 2026 Integrated System Plan to call for new transmission into Far, North West and Western NSW, citing strong resources, low development constraints and supportive communities, with up to 10GW at full scale.",
+          "so_what": "A coordinated industry push for an alternative, less-contested inland corridor could divert developer and investor attention from the politically fraught New England zone, a medium-term counterparty and pipeline signal worth tracking against EnergyCo's REZ commitments.",
+          "rez_tags": ["New England", "South West"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/solar-and-wind-titans-reboot-push-for-huge-inland-renewables-zone-as-least-regret-pathway-to-coal-free-nsw/",
+          "published": "2026-06-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "AEMO's Draft 2026 ISP holds a steady transmission course",
+          "summary": "Commentary on AEMO's Draft 2026 Integrated System Plan described it as plotting a steady course on transmission and firmed renewables, keeping major network build-out central to the least-cost path off coal.",
+          "so_what": "A stable national-planning baseline reinforces the strategic case for REZ transmission and is useful counter-evidence to arguments for pausing builds; monitor the final ISP for any REZ-specific sequencing changes.",
+          "rez_tags": [],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/aemos-latest-isp-plots-a-steady-course-but-private-sector-is-running-out-of-excuses/",
+          "published": "2026-06-26",
           "paywall": false
         }
       ]
@@ -87,7 +114,7 @@
         {
           "severity": "inform",
           "headline": "Federal environmental sign-off still pending for New England transmission backbone",
-          "summary": "EnergyCo continues to pursue federal approval for the New England 500kV transmission backbone — roughly 220km of dual lines from Bayswater plus around 100km linking energy hubs — a process running alongside the state planning and access-scheme work.",
+          "summary": "EnergyCo continues to pursue federal approval for the New England 500kV transmission backbone — dual lines from Bayswater plus links between energy hubs — alongside the state planning and access-scheme work.",
           "so_what": "Federal EPBC approval is an external critical-path dependency outside EnergyCo's control; any delay there compounds the political and community risk already weighing on New England's schedule.",
           "rez_tags": ["New England"],
           "source": "pv magazine Australia",

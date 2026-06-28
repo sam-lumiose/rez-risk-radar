@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T05:05:00+10:00",
+  "posture": "Watch — a quieter weekend after last week's political surge, with no new acute triggers. The standout signal is AEMO's 2026 ISP capacity picture: Central-West Orana overtakes New England as the state's largest REZ at 14GW, while New England's project pipeline (11GW) now runs well ahead of its planned 8GW network capacity — an oversubscription and access-rights contention risk. The New England political-plus-community pincer from last week remains live in the background but produced no fresh developments over the weekend.",
+  "summary": "AEMO's 2026 Integrated System Plan reshapes the NSW REZ picture: an expanded Central-West Orana is now forecast at 14GW, overtaking New England as the state's largest zone, and New England is elevated to 'anticipated' status. At the same time the ISP shows New England's grid-scale generation pipeline (~11GW) exceeding the zone's intended 8GW network capacity, sharpening connection-queue, curtailment and access-scheme contention risks. Community signals were muted — a public meeting for the New England-region Sundown Solar Farm was cancelled for low attendance. No new delivery, supply-chain, regulatory or cyber shocks surfaced over the weekend.",
+  "counts": { "act": 0, "watch": 1, "inform": 2 },
+  "sections": [
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "New England project pipeline now outstrips its planned transmission capacity in the 2026 ISP",
+          "summary": "AEMO's 2026 Integrated System Plan identifies roughly 11GW of existing, committed and anticipated grid-scale solar and wind in the New England REZ — above the zone's intended 8GW network capacity — while keeping the 2034 completion timeline for the 692km, twin-500kV backbone to Bayswater unchanged.",
+          "so_what": "Generation appetite running ~3GW ahead of planned capacity points to an oversubscribed connection queue, raising the prospect of curtailment, contested access rights and pressure on the upcoming access-scheme design. It also amplifies EnergyCo's exposure to the multi-year global transformer and high-voltage-equipment backlog if any capacity uplift is contemplated. Worth pressure-testing against the New England access-scheme declaration milestone.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/06/25/new-england-rez-key-as-batteries-and-renewables-reshape-the-grid/",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Central-West Orana overtakes New England as NSW's largest REZ in the 2026 ISP",
+          "summary": "Under AEMO's 2026 ISP the expanded Central-West Orana REZ is now forecast at around 14GW of capacity, making it the state's largest zone and surpassing New England, with the New England zone itself upgraded in the plan from 'actionable' to 'anticipated'.",
+          "so_what": "The shift signals where AEMO and the market expect investment to concentrate, with Central-West Orana — already in construction — emerging as the delivery-confidence anchor while the politically contested New England zone retains a strong planning mandate. A useful counterweight to arguments for scaling back the REZ program, and a pipeline-concentration trend to track across EnergyCo's portfolio.",
+          "rez_tags": ["Central-West Orana", "New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/06/25/new-england-rez-key-as-batteries-and-renewables-reshape-the-grid/",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Sundown Solar Farm community meeting in New England region cancelled for low attendance",
+          "summary": "A scheduled public meeting for the Sundown Solar Farm, a generation project in the New England region, was cancelled after attracting little community interest.",
+          "so_what": "Low turnout is an ambiguous social-licence signal — it can reflect either local fatigue or limited active opposition for this project — but is worth logging as a baseline data point against the highly mobilised transmission-corridor opposition elsewhere in New England.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/06/26/sundown-solar-farm-public-meeting-cancelled-due-to-low-interest/",
+          "published": "2026-06-26",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
