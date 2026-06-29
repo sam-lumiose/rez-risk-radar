@@ -1,0 +1,57 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T05:10:00+10:00",
+  "posture": "Watch — a quiet news cycle with no fresh acute trigger in the last 24 hours. The most material live signal is heritage-failure fallout on the flagship Central-West Orana project, where network operator ACEREZ destroyed an identified Aboriginal rock shelter and now faces a NSW planning investigation — a social-licence and compliance exposure that runs through EnergyCo's delivery model. In parallel, the New England access-scheme draft declaration reaches its end-June release target today, the leading indicator for organised community submissions.",
+  "summary": "No new political or delivery shock surfaced overnight; the New England political-plus-community pincer from last week remains live in the background but produced no fresh developments. Two standing risks carry forward: ACEREZ's destruction of an identified Aboriginal heritage rock shelter on the Central-West Orana transmission build — for which the consortium has admitted internal failures and which is under investigation by both ACEREZ and the NSW Department of Planning, Housing and Infrastructure — and EnergyCo's New England REZ Access Scheme draft declaration, due for release for public consultation by the end of June. AEMO's final 2026 Integrated System Plan, published 25 June, continues to underpin the strategic case for REZ transmission as the least-cost path off coal.",
+  "counts": { "act": 0, "watch": 2, "inform": 1 },
+  "sections": [
+    {
+      "category": "Safety, Environment & Biodiversity",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Network operator's destruction of a known Aboriginal rock shelter on the Central-West Orana build draws a NSW planning investigation",
+          "summary": "ACEREZ — the EnergyCo-appointed consortium delivering the Central-West Orana REZ transmission network — has admitted that internal failures led to the destruction of an Aboriginal heritage rock shelter near Mudgee that was identified and meant to be protected under the project's approved heritage plan, with the damage clearing an access track and only discovered later during due-diligence checks. The consortium has apologised, resumed access-track works under a staged approach with stronger controls, and met Registered Aboriginal Parties at the site; the NSW Department of Planning, Housing and Infrastructure has opened its own investigation. (Reported late May to mid-June; logged here as an ongoing matter not previously captured in this digest.)",
+          "so_what": "A heritage-protection failure on EnergyCo's most advanced REZ, by EnergyCo's own delivery partner, is a direct social-licence and regulatory-compliance exposure: it hands transmission opponents elsewhere (notably New England) a concrete example of process breakdown, and any adverse planning finding could carry enforcement, delay or remediation consequences. The risk function should track the DPHI investigation outcome and confirm equivalent heritage controls are assured across the New England corridor before its EIS exhibition.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/aboriginal-rock-shelter-destroyed-while-building-renewable-energy-zone-consortium-says-sorry/",
+          "published": "2026-06-11",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "New England access-scheme draft declaration reaches its end-June release target",
+          "summary": "EnergyCo's draft New England REZ Access Scheme Declaration is slated for release for public consultation by the end of June, placing today at the edge of that target window, with a final ministerial declaration aimed for end September. The consultation opens at least a 28-day window for submissions from consumers, regional communities and First Nations representatives.",
+          "so_what": "The window opens into a hostile political and community backdrop, so the volume and tone of submissions will be an early read on organised opposition strength after last week's 22,000-signature petition. The September declaration date is now a milestone to protect against political slippage, especially with a state election framing the Coalition's pledge to cap the zone.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/industry/access-schemes/new-england-rez-access-scheme",
+          "published": "2026-06-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "AEMO's final 2026 ISP keeps transmission-backed renewables as the least-cost path, reinforcing the REZ rationale",
+          "summary": "AEMO's final 2026 Integrated System Plan, released 25 June, reaffirms that renewables connected by transmission, firmed with storage and backed by gas, is the least-cost way to supply reliable power to 2050, citing roughly 120GW of utility-scale wind and solar and almost 50GW of storage and hydro on the optimal path.",
+          "so_what": "A stable national-planning baseline is useful counter-evidence to arguments for pausing transmission builds and underpins the strategic case for NSW's REZ corridors. The NSW-specific capacity shifts within this ISP were captured yesterday; this entry tracks the final plan's overall direction for continuity.",
+          "rez_tags": [],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/households-lead-march-to-least-cost-electricity-as-aemo-issues-call-to-arms-on-renewable-transition/",
+          "published": "2026-06-25",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}

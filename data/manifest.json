@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-06-30",
+      "file": "data/digests/2026-06-30.json",
+      "posture": "Watch — a quiet news cycle with no fresh acute trigger in the last 24 hours. The most material live signal is heritage-failure fallout on the flagship Central-West Orana project, where network operator ACEREZ destroyed an identified Aboriginal rock shelter and now faces a NSW planning investigation. In parallel, the New England access-scheme draft declaration reaches its end-June release target today.",
+      "counts": { "act": 0, "watch": 2, "inform": 1 }
+    },
+    {
       "date": "2026-06-29",
       "file": "data/digests/2026-06-29.json",
       "posture": "Watch — a quieter weekend after last week's political surge, with no new acute triggers. The standout signal is AEMO's 2026 ISP capacity picture: Central-West Orana overtakes New England as the state's largest REZ at 14GW, while New England's project pipeline (11GW) now runs ahead of its planned 8GW network capacity.",
