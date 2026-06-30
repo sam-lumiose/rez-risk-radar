@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T05:05:00+10:00",
+  "posture": "Watch — another quiet cycle with no fresh acute trigger overnight. The two live developments are constructive-to-neutral: a major grid-scale battery has reached commercial operation inside the flagship Central-West Orana REZ, a delivery-confidence signal, while EnergyCo's New England corridor field-investigation program ramps up from July across contested landholdings just as the access-scheme consultation and political opposition stay live. The end-June New England access-scheme draft declaration remains the key pending milestone to confirm released.",
+  "summary": "No new political or delivery shock surfaced in the last 24 hours. Akaysha Energy's 415MW/1,660MWh Orana battery near Wellington reached commercial operations on 30 June — a counterparty and delivery-confidence marker for the Central-West Orana REZ region. EnergyCo's New England REZ field-investigation campaign (Muswellbrook to Armidale) is scheduled to run July to September, putting survey crews on road reserves and private property across the corridor while community and political opposition remain mobilised. The New England access-scheme draft declaration, due for public consultation by end June, is still to be confirmed as released.",
+  "counts": { "act": 0, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "New England corridor field-investigation campaign ramps up from July across landholder properties",
+          "summary": "EnergyCo's field-investigation program for the New England REZ transmission corridor is scheduled to run from July to September between Muswellbrook and Armidale — taking in Rouchel, Gundy, Barry, Niangala, Walcha, Bendemeer and Uralla — covering visual, topographic, ecological, geotechnical, heritage and noise surveys. Most work is on publicly accessible road reserves, but private-property access requires direct landholder consultation, following a landholder information session held on 10 June.",
+          "so_what": "Putting visible survey crews onto contested farmland over the next three months is a friction point that opposition groups can mobilise around, especially while the access-scheme consultation is opening and the Coalition's pledge to cap the zone and scrap the Bayswater link frames the state-election debate. The risk function should watch for access disputes, refusals or protest activity as field teams move through the corridor, and confirm heritage-survey controls are airtight given the Central-West Orana rock-shelter precedent.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/ne/project-documents-new-england-renewable-energy-zone",
+          "published": "2026-06-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Large grid-scale battery reaches commercial operation inside the Central-West Orana REZ",
+          "summary": "Akaysha Energy's 415MW/1,660MWh Orana battery, 2km north-east of Wellington within the Central-West Orana REZ, reached commercial operations on 30 June, making it among the largest storage systems then operating in the NEM. The 448-Tesla-Megapack project is debt-financed and has 200MW contracted to EnergyAustralia under a long-term virtual tolling agreement.",
+          "so_what": "A flagship-REZ storage asset reaching full operation is a delivery-confidence and counterparty-strength signal that supports the strategic case for the Central-West Orana zone and offers a tangible counter to arguments for pausing the REZ build. It is contextual rather than acute for EnergyCo, but worth logging as a positive milestone in the zone where transmission energisation is still pending.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "Energy-Storage.news",
+          "url": "https://www.energy-storage.news/akaysha-energys-1660mwh-orana-bess-reaches-commercial-operations-in-australia/",
+          "published": "2026-06-30",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
