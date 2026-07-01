@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T05:10:00+10:00",
+  "posture": "Watch — another quiet cycle with no fresh acute trigger in the last 24 hours. The single live signal worth flagging is a timing one: the end-June target window for releasing the New England REZ Access Scheme draft declaration has now lapsed into early July with no release confirmed on EnergyCo's official access-scheme page (last updated 27 February), leaving a possible slippage watch ahead of the end-September ministerial declaration and the March state-election backdrop. Carried-forward matters — the ACEREZ Central-West Orana heritage investigation and the New England corridor field-investigation campaign now underway from July — remain the standing exposures but produced no new developments overnight.",
+  "summary": "No new political, delivery, supply-chain, market or cyber shock surfaced across the free sources in the last 24 hours. The one item advanced enough to log is procedural: EnergyCo's target of releasing the New England REZ Access Scheme draft declaration by end June has passed without a confirmed release published on the agency's access-scheme page, which still shows the March 2026 timeline. All other live threads — the DPHI investigation into ACEREZ's destruction of an Aboriginal rock shelter on the Central-West Orana build, the July–September New England field-investigation program, and AEMO's final 2026 ISP — are prior-digest items with no fresh movement and are not re-listed here.",
+  "counts": { "act": 0, "watch": 1, "inform": 0 },
+  "sections": [
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "New England access-scheme draft declaration still unconfirmed as end-June release window lapses into July",
+          "summary": "EnergyCo's stated timeline had the Draft New England REZ Access Scheme Declaration going out for public consultation by end June 2026, but as of today the agency's official access-scheme page still displays only the March 2026 update anticipating that date, with no confirmation the draft has actually been exhibited. The scheme sets the competitive access-rights framework for generation and storage connecting to the zone, and a minimum 28-day consultation and end-September ministerial declaration are still to follow.",
+          "so_what": "A milestone quietly passing its target date is a low-grade schedule-slippage signal on a politically sensitive workstream: any drift compresses the runway to the end-September declaration and hands the Coalition — which has pledged to cap the zone and scrap the Bayswater link — a further line of attack heading into the March state election. The risk function should confirm whether the draft has in fact been released (the page may simply be lagging) and, if not, treat the delay as a milestone to protect and monitor for organised-submission timing.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/industry/access-schemes/new-england-rez-access-scheme",
+          "published": "2026-07-02",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
