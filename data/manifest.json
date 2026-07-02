@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-03",
+      "file": "data/digests/2026-07-03.json",
+      "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the last 24 hours. Standing exposures carried forward: the New England REZ Access Scheme draft declaration remains unconfirmed as released, the New England corridor field-investigation campaign runs July–September, and the ACEREZ Central-West Orana heritage investigation is still open.",
+      "counts": { "act": 0, "watch": 0, "inform": 0 }
+    },
+    {
       "date": "2026-07-02",
       "file": "data/digests/2026-07-02.json",
       "posture": "Watch — another quiet cycle with no fresh acute trigger in the last 24 hours. The single live signal worth flagging is a timing one: the end-June target window for releasing the New England REZ Access Scheme draft declaration has now lapsed into early July with no release confirmed on EnergyCo's official access-scheme page (last updated 27 February), leaving a possible slippage watch ahead of the end-September ministerial declaration and the March state-election backdrop.",
