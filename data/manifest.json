@@ -6,6 +6,12 @@
   },
   "digests": [
     {
+      "date": "2026-07-04",
+      "file": "data/digests/2026-07-04.json",
+      "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the last 24 hours, extending the quiet weekend cycle. Standing exposures carried forward: the New England REZ Access Scheme draft declaration remains unconfirmed as released (several days past its end-June target), the New England corridor field-investigation campaign runs July–September, and the ACEREZ Central-West Orana heritage investigation is still open.",
+      "counts": { "act": 0, "watch": 0, "inform": 0 }
+    },
+    {
       "date": "2026-07-03",
       "file": "data/digests/2026-07-03.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the last 24 hours. Standing exposures carried forward: the New England REZ Access Scheme draft declaration remains unconfirmed as released, the New England corridor field-investigation campaign runs July–September, and the ACEREZ Central-West Orana heritage investigation is still open.",
