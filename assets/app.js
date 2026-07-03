@@ -28,9 +28,10 @@ function renderArchive(manifest, currentDate) {
   if (!el) return;
   el.innerHTML = manifest.digests.map((d) => {
     const c = d.counts || {};
-    const dots = ["act", "watch", "inform"]
-      .filter((k) => c[k] > 0)
-      .map((k) => `<span class="dot ${k}" title="${c[k]} ${k}"></span>`).join("");
+    const active = ["act", "watch", "inform"].filter((k) => c[k] > 0);
+    const dots = active.length
+      ? active.map((k) => `<span class="dot ${k}" title="${c[k]} ${k}"></span>`).join("")
+      : `<span class="dot clean" title="Published · ran clean"></span>`;
     const cur = d.date === currentDate ? " current" : "";
     return `<li><a class="${cur.trim()}" href="digest.html?date=${esc(d.date)}">
       <span class="date">${esc(d.date)}</span><span class="dots">${dots}</span></a></li>`;

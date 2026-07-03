@@ -187,6 +187,7 @@ a:hover { color: var(--accent-live); text-decoration: underline; text-underline-
 .archive .dots { display: inline-flex; gap: 3px; }
 .dot { width: 7px; height: 7px; border-radius: 50%; }
 .dot.act { background: var(--act); } .dot.watch { background: var(--watch); } .dot.inform { background: var(--inform); }
+.dot.clean { background: var(--muted); opacity: .45; }
 
 /* ---------- States / footer ---------- */
 .empty, .loading { padding: 40px 0; color: var(--muted); font-size: .95rem; }
