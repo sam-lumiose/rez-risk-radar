@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T05:05:00+10:00",
+  "posture": "Watch — the long-running New England REZ Access Scheme schedule-slippage thread has now resolved: EnergyCo released the Draft New England REZ Access Scheme Declaration for public consultation on 7 July 2026, with feedback invited by 6 August 2026 and a supporting positions paper and stakeholder webinars. This is the single fresh development to clear the NSW-REZ relevance bar and is carried today as an active-consultation Watch (a change from the prior eight days of 'ran clean' entries, where the draft was flagged as overdue against its end-June target). Other exposures are unchanged and carried forward: EnergyCo's New England corridor field-investigation program runs July-September across contested landholdings (roughly 150 affected landholders between Muswellbrook and Walcha along the refined 1km study corridor to Bayswater) while the Walcha High Country Guardians opposition and the Coalition's late-June policy (a New England REZ scope/route review that would scrap the 500kV corridor, plus proposed urban and Outback REZs) stay live into the March 2027 state-election run-up; a community-group alliance has signalled it will disengage from consultation absent Premier intervention; and on Central-West Orana, ACEREZ's late-June position that it has recommenced access-track work under stronger controls remains the latest word while the DPHI assessment of the rock-shelter heritage breach stays open. Logistics milestone tracking as planned: oversized turbine-blade deliveries to Squadron Energy's Uungula Wind Farm via the Port-of-Newcastle-to-Central-West-Orana route were flagged to begin around July 2026, across an anticipated ~700 movements over 12 months.",
+  "summary": "One new NSW-REZ-relevant development cleared the bar in this scan: on 7 July 2026 EnergyCo put the Draft New England REZ Access Scheme Declaration on public exhibition for a minimum 28 days, inviting feedback by 6 August 2026 alongside a positions paper and community/industry webinars. This resolves the schedule-slippage watch the prior eight digests carried (the draft had been overdue against its end-June target) and shifts the thread from 'awaited' to 'active consultation window'. All other threads that surfaced — the July-September field-investigation program, the Walcha-area and Coalition opposition and the alliance's threat to disengage, the ACEREZ Central-West Orana rock-shelter matter, and the flagged start of oversized turbine-blade movements to Uungula — are prior-digest entries or dated background with no fresh movement in the window, and are deduplicated out per the writing rules.",
+  "counts": { "act": 0, "watch": 1, "inform": 0 },
+  "sections": [
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "EnergyCo puts the draft New England REZ Access Scheme declaration out for consultation",
+          "summary": "EnergyCo has released the Draft New England REZ Access Scheme Declaration for public exhibition (from 7 July 2026), inviting community and industry feedback by 6 August 2026 over a minimum 28-day window, accompanied by a positions paper explaining the design elements and how earlier stakeholder feedback was incorporated, plus stakeholder webinars. A formal ministerial declaration is targeted for end-September 2026, subject to the Minister's consideration.",
+          "so_what": "This resolves the schedule-slippage watch the radar has carried since late June (the draft had been overdue against its end-June target) and moves the access regime into an active consultation window that shapes connection rules, access fees and transitional arrangements for generation and storage counterparties in the zone; the submission period is also a live channel for developer and community pushback that EnergyCo will need to manage ahead of the end-September declaration and the March 2027 state election.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/industry/access-schemes/new-england-rez-access-scheme",
+          "published": "2026-07-07",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
