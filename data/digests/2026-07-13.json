@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T05:04:00+10:00",
+  "posture": "Watch — one fresh, dated development cleared the NSW-REZ relevance bar in the 24 hours to Monday morning, and it firms up the Central-West Orana Port-to-REZ logistics thread the radar has carried: the NSW Government has gazetted a new state main road (Main Road No. 709) around Muswellbrook, running via Bengalla Road and Wybong Road to the Golden Highway at Sandy Hollow, explicitly to support oversize-overmass (OSOM) vehicle movements for the Central-West Orana REZ. This lands as the OSOM delivery campaign to Squadron Energy's Uungula Wind Farm gets underway from today (Monday 13 July), the recommencement date flagged in yesterday's digest, following completion of the Goolma Road / Mitchell Highway intersection upgrade — so the road declaration and the first sustained oversized-load movements are now converging on the same corridor. Everything else is a prior-digest carry-forward with no fresh movement: the Draft New England REZ Access Scheme Declaration remains on public exhibition (released 7 July, feedback by 6 August, targeted end-September ministerial declaration), with EnergyCo industry and community webinars set for Tuesday 14 July; the New England corridor field-investigation program runs July-September across the refined 1km Muswellbrook-Walcha study corridor to Bayswater (~150 affected landholders) amid live Walcha High Country Guardians opposition, the Coalition's late-June policy to scrap the 500kV corridor and cap the zone into the March 2027 election run-up, and a community-group alliance's threat to disengage from consultation; and on Central-West Orana, ACEREZ's late-June position that it has recommenced access-track work under stronger controls remains the latest word while the DPHI rock-shelter heritage assessment stays open.",
+  "summary": "A quiet weekend scan surfaced one fresh, dated NSW-REZ-relevant development: the NSW Government has formally declared a new state main road (Main Road No. 709) around Muswellbrook — via Bengalla and Wybong Roads to the Golden Highway at Sandy Hollow — specifically to accommodate oversize-overmass (OSOM) vehicle movements associated with the Central-West Orana REZ. It coincides with the start, from today, of the flagged OSOM delivery campaign carrying turbine components to Squadron Energy's Uungula Wind Farm along the Port-of-Newcastle-to-Central-West-Orana corridor. The gazettal is logged as situational-awareness 'inform'. All other threads — the New England Access Scheme consultation window and its 14 July webinars, the July-September field-investigation program, the Walcha-area and Coalition opposition and the alliance's disengagement threat, and the ACEREZ Central-West Orana rock-shelter matter — are prior-digest entries with no fresh movement in the window and are deduplicated out per the writing rules.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Supply Chain & Logistics",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "NSW gazettes a new Muswellbrook main road to carry oversized loads into the Central-West Orana REZ",
+          "summary": "The NSW Government has formally declared a new state main road (Main Road No. 709) covering the route from the Denman Road / Bengalla Road intersection, west along Bengalla Road and Wybong Road to the Golden Highway at Sandy Hollow, in a declaration published in the NSW Government Gazette. The declaration is tied to changes needed to accommodate oversize-overmass (OSOM) vehicle movements across the state road network as part of the Central-West Orana Renewable Energy Zone, and coincides with the start from Monday 13 July of the flagged OSOM delivery campaign carrying turbine components to Squadron Energy's Uungula Wind Farm along the Port-of-Newcastle-to-Central-West-Orana corridor.",
+          "so_what": "Formalising a dedicated OSOM haul route through Muswellbrook signals that the heavy-haulage logistics phase for Central-West Orana generation is now moving from planning into sustained execution, concentrating oversized-load traffic, road-condition and community-disruption exposure along a defined regional corridor as deliveries ramp over an anticipated 10-12 months; smooth road management supports the connected-generation schedule, while any haul-route friction, road incidents or local pushback around the new arrangements are early delivery-risk and social-licence markers EnergyCo should track.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "Dave Layzell MP (State Matters); NSW Government Gazette",
+          "url": "https://www.davelayzell.com.au/post/state-matters-13-july-2026",
+          "published": "2026-07-09",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
