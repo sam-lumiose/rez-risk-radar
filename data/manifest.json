@@ -6,118 +6,204 @@
   },
   "digests": [
     {
+      "date": "2026-07-15",
+      "file": "data/digests/2026-07-15.json",
+      "posture": "Watch — one fresh, material NSW-REZ development cleared the relevance bar in the 24 hours to Wednesday morning: EnergyCo has executed a Project Development Deed with Transgrid to upgrade the constrained South West REZ export path between Jerilderie and Wagga Wagga, with works now to get underway to unlock 3.56GW of connection capacity for the four projects holding South West REZ access rights (Origin's Yanco Delta, Spark's Dinawan Energy Hub, Someva's Pottinger Energy Park and BayWa.re's Bullawah Wind Farm). It is a concrete delivery and counterparty milestone that directly addresses the recurring South West REZ capacity/voltage constraint the radar has tracked — the deed scopes upgrading the 330kV Dinawan substation to operate at 500kV, converting the Dinawan-to-Wagga Wagga lines from 330kV to 500kV, and upgrading 11km of 330kV line from Gugaa to Wagga Wagga — and EnergyCo forecasts more than $17.8bn in private investment and ~1,690 direct construction jobs a year, following last month's $225m state acceleration package and a fast-tracked $60m community benefit tranche. Notably, this milestone lands two days after Squadron's 558MW Banandra project (logged 14 July) said it would bypass the at-capacity South West REZ and plug into the existing 330kV network — so the deed both firms delivery certainty for the four in-zone projects and sharpens the question of how out-of-zone generation reaches market. Everything heavier is a prior-digest carry-forward with no fresh movement in the window: the Draft New England REZ Access Scheme Declaration remains on public exhibition (released 7 July, feedback by 6 August, targeted end-September ministerial declaration) following EnergyCo's 14 July industry and community webinars; the New England corridor field-investigation program runs July-September across the refined 1km Muswellbrook-Walcha corridor to Bayswater (~150 affected landholders) amid live Walcha High Country Guardians opposition, the Coalition's late-June policy to scrap the 500kV corridor and cap the zone into the March 2027 election run-up, and a community-alliance disengagement threat; the Central-West Orana Port-to-REZ OSOM delivery campaign to Squadron's Uungula Wind Farm (underway from 13 July, ~700 loads over 12 months) and the Main Road No. 709 gazettal continue; and on Central-West Orana, ACEREZ's recommencement of access-track work under stronger heritage controls remains the latest word while the DPHI rock-shelter assessment stays open.",
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-07-14",
       "file": "data/digests/2026-07-14.json",
       "posture": "Watch — one fresh, dated NSW-REZ-relevant development cleared the relevance bar in the 24 hours to Tuesday morning: Squadron Energy has unveiled a new 558MW wind project, Banandra, on grazing land just east of the declared South West REZ, and — because the South West REZ has already reached capacity — says it will seek to plug into the existing 330kV Darlington Point-to-Wagga Wagga line rather than pursue REZ access rights. It is the latest concrete illustration of the recurring South West REZ capacity/voltage constraint (the zone is rated at 330kV via Project EnergyConnect rather than the 500kV many developers wanted, with access rights granted to only four projects, three scaled down), now pushing new capacity to bypass the REZ. The project is very early-stage (consultation from May; state planning application and EPBC referral lodged early July), so it is logged as situational-awareness 'inform'. Everything heavier is a prior-digest carry-forward: the Draft New England REZ Access Scheme Declaration remains on public exhibition (released 7 July, feedback by 6 August, targeted end-September declaration), with EnergyCo webinars taking place today, 14 July; the New England corridor field-investigation program runs July-September across the refined 1km Muswellbrook-Walcha corridor to Bayswater (~150 affected landholders) amid live Walcha High Country Guardians opposition, the Coalition's late-June policy to scrap the 500kV corridor and cap the zone, and a community-group alliance's threat to disengage from consultation; the Central-West Orana Port-to-REZ OSOM delivery campaign to Uungula that began 13 July (with the new Main Road No. 709 gazettal) continues; and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls remains the latest word while the DPHI rock-shelter heritage assessment stays open.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-13",
       "file": "data/digests/2026-07-13.json",
       "posture": "Watch — one fresh, dated development cleared the NSW-REZ relevance bar in the 24 hours to Monday morning: the NSW Government has gazetted a new state main road (Main Road No. 709) around Muswellbrook, via Bengalla and Wybong Roads to the Golden Highway at Sandy Hollow, explicitly to support oversize-overmass (OSOM) vehicle movements for the Central-West Orana REZ. It lands as the flagged OSOM delivery campaign to Squadron Energy's Uungula Wind Farm gets underway from today (Monday 13 July) following the Goolma Road / Mitchell Highway intersection upgrade — road declaration and first sustained oversized-load movements now converging on the same Port-to-REZ corridor. All heavier threads are prior-digest carry-forwards with no fresh movement: the Draft New England REZ Access Scheme Declaration remains on public exhibition (released 7 July, feedback by 6 August, targeted end-September declaration), with EnergyCo webinars set for 14 July; the New England corridor field-investigation program runs July-September across the refined 1km Muswellbrook-Walcha corridor to Bayswater (~150 affected landholders) amid live Walcha High Country Guardians opposition, the Coalition's late-June policy to scrap the 500kV corridor and cap the zone, and a community-group alliance's threat to disengage from consultation; and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls remains the latest word while the DPHI rock-shelter heritage assessment stays open.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-12",
       "file": "data/digests/2026-07-12.json",
       "posture": "Watch — one fresh, dated logistics signal cleared the NSW-REZ relevance bar in the 24 hours to Sunday morning: on the Central-West Orana Port-to-REZ route, oversize-overmass (OSOM) deliveries to Squadron Energy's Uungula Wind Farm are set to recommence from Monday 13 July 2026, weather permitting, following completion of the Goolma Road / Mitchell Highway intersection upgrade — the first firm recommencement date on a thread the radar has carried only as background. A light weekend otherwise: all heavier threads are prior-digest carry-forwards with no fresh movement — the Draft New England REZ Access Scheme Declaration remains on public exhibition (released 7 July, feedback by 6 August, targeted end-September declaration); the New England corridor field-investigation program runs July-September across the refined 1km Muswellbrook-Walcha corridor to Bayswater (~150 affected landholders) amid live Walcha High Country Guardians opposition, the Coalition's late-June policy to scrap the 500kV corridor and cap the zone, and a community-group alliance's threat to disengage from consultation; and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls remains the latest word while the DPHI rock-shelter heritage assessment stays open.",
-      "counts": { "act": 0, "watch": 0, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-11",
       "file": "data/digests/2026-07-11.json",
       "posture": "Watch — the long-running New England REZ Access Scheme schedule-slippage thread has resolved: EnergyCo released the Draft New England REZ Access Scheme Declaration for public consultation on 7 July 2026, feedback invited by 6 August 2026, with a positions paper and stakeholder webinars, ahead of a targeted end-September ministerial declaration. This is the single fresh item today and shifts the access-scheme thread from 'overdue' to 'active consultation window' (a change from eight straight 'ran clean' days). Standing exposures unchanged: the New England corridor field-investigation program runs July-September across contested landholdings (~150 affected landholders on the refined 1km Muswellbrook-Walcha corridor to Bayswater) amid live Walcha High Country Guardians opposition, the Coalition's late-June policy to scrap the 500kV corridor, and a community-group alliance threatening to disengage from consultation; and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls remains the latest word while the DPHI rock-shelter heritage assessment stays open. Logistics thread to track: oversized turbine-blade deliveries to Uungula via the Port-to-REZ route flagged to begin around July 2026.",
-      "counts": { "act": 0, "watch": 1, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-10",
       "file": "data/digests/2026-07-10.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free source register in the 24 hours to Friday morning, extending the quiet run to an eighth straight day and closing out the week. Standing exposures carried forward: the New England REZ Access Scheme draft declaration is still not confirmed as released (roughly a fortnight past its end-June target); the New England corridor field-investigation campaign runs July-September across contested landholdings (150 affected landholders on the refined 1km Muswellbrook-Walcha study corridor to Bayswater) amid live Walcha High Country Guardians opposition and the Coalition's late-June energy policy (New England scope/route review to scrap the 500kV corridor, plus proposed urban and Outback REZs); and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls is the latest position while the DPHI assessment of the rock-shelter breach stays open. Logistics thread to track: oversized turbine-blade deliveries to Uungula via the Port-to-REZ route flagged to begin around July 2026.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-09",
       "file": "data/digests/2026-07-09.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free source register in the 24 hours to Thursday morning, extending the quiet run to a seventh straight day. Standing exposures carried forward: the New England REZ Access Scheme draft declaration is still not confirmed as released (EnergyCo's access-scheme page still marked 'Updated 27 February 2026', now roughly ten days past its end-June target); the New England corridor field-investigation campaign runs July-September across contested landholdings amid live Walcha-area opposition and the Coalition's late-June energy policy (New England scope/route review to scrap the 500kV corridor, plus proposed urban and Outback REZs); and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls is the latest position while the DPHI assessment of the rock-shelter breach stays open. Logistics thread to track: oversized turbine-blade deliveries to Uungula via the Port-to-REZ route flagged to begin around July 2026.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-08",
       "file": "data/digests/2026-07-08.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free source register in the 24 hours to Wednesday morning, extending the quiet run for a sixth straight day. Standing exposures carried forward: the New England REZ Access Scheme draft declaration is still not confirmed as released (EnergyCo's access-scheme page still marked 'Updated 27 February 2026', now roughly a week past its end-June target); the New England corridor field-investigation campaign runs July-September across contested landholdings amid live Walcha-area opposition and the Coalition's late-June energy policy (New England scope/route review to scrap the 500kV corridor, plus proposed urban and Outback REZs); and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls is the latest position while the DPHI assessment of the rock-shelter breach stays open.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-07",
       "file": "data/digests/2026-07-07.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the 24 hours to Tuesday morning, extending the quiet run into a new week. Standing exposures carried forward: the New England REZ Access Scheme draft declaration is still not confirmed as released (EnergyCo's access-scheme page still marked 'Updated 27 February 2026', now roughly a week past its end-June target); the New England corridor field-investigation campaign runs July–September across contested landholdings amid live Walcha-area and Coalition opposition; and on Central-West Orana, ACEREZ's late-June recommencement of access-track work under stronger controls is the latest position while the DPHI assessment of the rock-shelter breach stays open.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-06",
       "file": "data/digests/2026-07-06.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the 24 hours to Monday morning, and the weekend pick-up added nothing new that cleared the NSW-REZ relevance bar. Standing exposures carried forward: the New England REZ Access Scheme draft declaration is still not confirmed as released (EnergyCo's access-scheme page still marked 'Updated 27 February 2026', now roughly a week past its end-June target); the New England corridor field-investigation campaign runs July–September across contested landholdings amid live Walcha opposition; and on Central-West Orana, ACEREZ's 23 June recommencement of access-track work under stronger controls is the latest position while the DPHI assessment of the rock-shelter breach stays open.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-05",
       "file": "data/digests/2026-07-05.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the last 24 hours, extending the quiet weekend cycle into Sunday. Standing exposures carried forward: the New England REZ Access Scheme draft declaration remains unconfirmed as released (EnergyCo's access-scheme page still marked 'Updated 27 February 2026', now several days past its end-June target), the New England corridor field-investigation campaign runs July–September across contested landholdings, and the DPHI investigation into ACEREZ's rock-shelter destruction on the Central-West Orana build is still open.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-04",
       "file": "data/digests/2026-07-04.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the last 24 hours, extending the quiet weekend cycle. Standing exposures carried forward: the New England REZ Access Scheme draft declaration remains unconfirmed as released (several days past its end-June target), the New England corridor field-investigation campaign runs July–September, and the ACEREZ Central-West Orana heritage investigation is still open.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-03",
       "file": "data/digests/2026-07-03.json",
       "posture": "Watch (ran clean) — no fresh acute trigger surfaced across the free sources in the last 24 hours. Standing exposures carried forward: the New England REZ Access Scheme draft declaration remains unconfirmed as released, the New England corridor field-investigation campaign runs July–September, and the ACEREZ Central-West Orana heritage investigation is still open.",
-      "counts": { "act": 0, "watch": 0, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-02",
       "file": "data/digests/2026-07-02.json",
       "posture": "Watch — another quiet cycle with no fresh acute trigger in the last 24 hours. The single live signal worth flagging is a timing one: the end-June target window for releasing the New England REZ Access Scheme draft declaration has now lapsed into early July with no release confirmed on EnergyCo's official access-scheme page (last updated 27 February), leaving a possible slippage watch ahead of the end-September ministerial declaration and the March state-election backdrop.",
-      "counts": { "act": 0, "watch": 1, "inform": 0 }
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 0
+      }
     },
     {
       "date": "2026-07-01",
       "file": "data/digests/2026-07-01.json",
       "posture": "Watch — another quiet cycle with no fresh acute trigger overnight. A major grid-scale battery has reached commercial operation inside the flagship Central-West Orana REZ (delivery-confidence signal), while EnergyCo's New England corridor field-investigation program ramps up from July across contested landholdings as the access-scheme consultation and political opposition stay live.",
-      "counts": { "act": 0, "watch": 1, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 1
+      }
     },
     {
       "date": "2026-06-30",
       "file": "data/digests/2026-06-30.json",
       "posture": "Watch — a quiet news cycle with no fresh acute trigger in the last 24 hours. The most material live signal is heritage-failure fallout on the flagship Central-West Orana project, where network operator ACEREZ destroyed an identified Aboriginal rock shelter and now faces a NSW planning investigation. In parallel, the New England access-scheme draft declaration reaches its end-June release target today.",
-      "counts": { "act": 0, "watch": 2, "inform": 1 }
+      "counts": {
+        "act": 0,
+        "watch": 2,
+        "inform": 1
+      }
     },
     {
       "date": "2026-06-29",
       "file": "data/digests/2026-06-29.json",
       "posture": "Watch — a quieter weekend after last week's political surge, with no new acute triggers. The standout signal is AEMO's 2026 ISP capacity picture: Central-West Orana overtakes New England as the state's largest REZ at 14GW, while New England's project pipeline (11GW) now runs ahead of its planned 8GW network capacity.",
-      "counts": { "act": 0, "watch": 1, "inform": 2 }
+      "counts": {
+        "act": 0,
+        "watch": 1,
+        "inform": 2
+      }
     },
     {
       "date": "2026-06-28",
       "file": "data/digests/2026-06-28.json",
       "posture": "Elevated — a political-plus-community pincer on the New England REZ still dominates: the Coalition's plan to cap the zone and scrap its 500kV Bayswater link, a 22,000-signature petition debated to a near-empty government bench, and the access-scheme consultation due to open into a hostile climate. A weekend counter-signal: a developer consortium is pushing AEMO to back a new far-west NSW renewables region.",
-      "counts": { "act": 1, "watch": 4, "inform": 4 }
+      "counts": {
+        "act": 1,
+        "watch": 4,
+        "inform": 4
+      }
     },
     {
       "date": "2026-06-27",
       "file": "data/digests/2026-06-27.json",
       "posture": "Steady — community-benefit and logistics news, no action items.",
-      "counts": { "act": 0, "watch": 2, "inform": 3 }
+      "counts": {
+        "act": 0,
+        "watch": 2,
+        "inform": 3
+      }
     },
     {
       "date": "2026-06-26",
       "file": "data/digests/2026-06-26.json",
       "posture": "Watch — landholder sentiment in New England warrants monitoring.",
-      "counts": { "act": 0, "watch": 3, "inform": 2 }
+      "counts": {
+        "act": 0,
+        "watch": 3,
+        "inform": 2
+      }
     }
   ]
 }
