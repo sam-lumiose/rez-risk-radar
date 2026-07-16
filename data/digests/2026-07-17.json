@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T06:05:00+10:00",
+  "posture": "Watch — one fresh, dated NSW-REZ development cleared the relevance bar in the 24 hours to Friday morning: Squadron Energy has confirmed it will not proceed with its 426MW Boorolong Wind Farm (with a 150MW/600MWh battery) about 15km north-west of Armidale inside the New England REZ, ending a project it had paused for two months during a pipeline review. Squadron says it is prioritising more advanced projects and stresses it remains active in the region through its operating Sapphire Wind Farm, while Origin's neighbouring Northern Tablelands wind project continues to develop its EIS. The signal matters less as an isolated project decision — Boorolong was early-stage and had not lodged an EIS — than for how it lands in the live New England political fight: the state government has branded it the 'first investment victim' of the Coalition's late-June pledge to scrap the New England REZ and not build the 500kV transmission line, while Squadron rejects any suggestion the decision was policy-driven. Everything heavier is a prior-digest carry-forward with no fresh movement in the window and is deduplicated out: the New England Draft REZ Access Scheme Declaration remains on public exhibition (released 7 July, feedback by 6 August, targeted end-September declaration) after EnergyCo's 14 July webinars, with the EIS expected to be lodged and exhibited in the second half of 2026; the refined 1km Muswellbrook-Walcha corridor field-investigation program runs July-September (~150 affected landholders) amid live Walcha High Country Guardians opposition; EnergyCo's 15 July South West REZ export-upgrade deed with Transgrid (Jerilderie-Wagga Wagga, unlocking 3.56GW for the four access-rights projects) and Squadron's 14 July Banandra bypass onto the existing 330kV network both stand; and on Central-West Orana the Port-to-REZ OSOM delivery campaign to Uungula plus the Main Road No. 709 gazettal continue while ACEREZ's staged access-track recommencement under stronger heritage controls and the open DPHI rock-shelter assessment remain the latest word.",
+  "summary": "One fresh NSW-REZ-relevant item surfaced in the 24-hour window to Friday 17 July morning: Squadron Energy has walked away from its 426MW Boorolong wind project inside the New England REZ, a counterparty/pipeline decision now at the centre of the political fight over the Coalition's plan to scrap the zone's 500kV transmission line. All other active threads are prior-digest carry-forwards with no fresh movement — the New England Access Scheme exhibition, the July-September corridor field investigations and associated Walcha/Coalition opposition, the 15 July South West REZ Transgrid export-upgrade deed, the 14 July Squadron Banandra bypass, and the Central-West Orana OSOM delivery campaign, Main Road No. 709 gazettal and ACEREZ heritage matter — and are deduplicated out per the writing rules.",
+  "counts": { "act": 0, "watch": 1, "inform": 0 },
+  "sections": [
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Squadron scraps its 426MW Boorolong wind project inside the New England REZ",
+          "summary": "Squadron Energy has confirmed it will not proceed with the 426MW Boorolong Wind Farm (up to 71 turbines plus a 150MW/600MWh battery) about 15km north-west of Armidale in the New England REZ, ending a project paused for two months during a pipeline review; it had not yet lodged an EIS. Squadron says it is prioritising more advanced projects and remains active in the region via its operating Sapphire Wind Farm, while the neighbouring Origin Northern Tablelands wind project continues.",
+          "so_what": "A generation counterparty exiting a New England REZ project weakens the zone's committed-generation pipeline and feeds directly into the demand-certainty case for the transmission build: the state government has cast it as the 'first investment victim' of the Coalition's late-June pledge to scrap the REZ and not build the 500kV line, while Squadron denies any policy motive — leaving EnergyCo exposed to investor-confidence and political narrative risk as the March 2027 election approaches.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/07/16/squadron-stops-work-on-boorolong-wind-farm-as-neighbouring-origin-project-pushes-on/",
+          "published": "2026-07-16",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
