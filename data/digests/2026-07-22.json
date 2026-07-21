@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T05:05:00+10:00",
+  "posture": "Watch — one fresh, dated NSW-REZ development cleared the relevance bar in the 24 hours to Wednesday morning: the NSW Farmers Association annual conference (more than 300 delegates at Rosehill Gardens, running 20-22 July and wrapping today) has moved from EnergyCo's contested sponsorship (carried yesterday) to the substance of the debate, with New England branches driving transmission-focused motions aimed squarely at the New England REZ. The Armidale branch is seeking to have the peak body advocate cutting the zone's planned capacity from 8GW to 3GW — a position that mirrors the Coalition's late-June pledge to hobble the build — while Walcha branches are pushing motions against compulsory acquisition of land for transmission lines and calling on EnergyCo to reassess all REZ transmission infrastructure requirements. The conference also delivered a leadership change directly relevant to the landholder front: Moree (New England) grazier Rebecca Reardon was elected to replace outgoing president Xavier Martin, keeping the peak body's leadership in the region hosting the state's largest and most contested REZ, and Premier Chris Minns, Energy Minister Penny Sharpe and Opposition Leader Kellie Sloane all addressed delegates. The conference item is carried free (New England Times); the president-election confirmation sits on a paid ACM masthead (Northern Daily Leader) and is flagged paywall, headline-and-standfirst only. Everything heavier is a prior-digest carry-forward with no fresh movement in the window and is deduplicated out: the 20 July sponsorship 'conflict of interest' flashpoint itself; Squadron Energy's 16 July decision not to proceed with the 426MW Boorolong wind project inside the New England REZ and the political fight it fed; the New England Draft REZ Access Scheme Declaration on exhibition (released 7 July, feedback by 6 August, declaration targeted end-September) with the EIS expected in the second half of 2026 and energisation targeted for 2032; the refined 1km Muswellbrook-Walcha corridor and its July-September field-investigation program (~150 landholders) against live Walcha High Country Guardians opposition and the 22,000-signature petition; EnergyCo's 15 July South West REZ Transgrid export-upgrade deed (3.56GW); and on Central-West Orana the Port-to-REZ OSOM delivery campaign, the Main Road No. 709 gazettal, and ACEREZ's staged access-track works under stronger heritage controls with the DPHI rock-shelter assessment still open, plus the community roadshow flagged for 11-15 August. The standing posture is unchanged: the dominant exposures remain the New England political and social-licence contest ahead of the March 2027 state election, and the delivery and heritage risks on Central-West Orana.",
+  "summary": "The fresh signal in the 24-hour window to Wednesday 22 July morning is the NSW Farmers annual conference (Rosehill, 20-22 July), where New England branches are driving transmission-focused motions targeting the New England REZ: an Armidale motion to advocate cutting the zone from 8GW to 3GW (echoing the Coalition's pledge), and Walcha motions against compulsory acquisition of land for transmission and to have EnergyCo reassess all REZ transmission requirements. Moree grazier Rebecca Reardon was elected the peak body's new president, keeping its leadership in the contested New England region, with the Premier, Energy Minister and Opposition Leader all addressing delegates. All other active threads — yesterday's EnergyCo sponsorship 'conflict of interest' item, the Squadron Boorolong exit and New England politics, the Access Scheme exhibition, the July-September corridor field investigations and Walcha opposition, the 15 July South West REZ Transgrid deed, and the Central-West Orana OSOM delivery and ACEREZ heritage matters — are prior-digest carry-forwards with no fresh movement and are deduplicated out.",
+  "counts": { "act": 0, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW Farmers conference debates motions to slash New England REZ capacity and block compulsory land acquisition",
+          "summary": "At the NSW Farmers Association annual conference (more than 300 delegates at Rosehill Gardens, 20-22 July), New England branches are driving the energy-transition debate, which now centres almost entirely on transmission. The Armidale branch is seeking to have the peak body advocate cutting the New England REZ's planned capacity from 8GW to 3GW — arguing a full build-out would industrialise the region and run lines through around 100 farms — while Walcha branches are pushing motions against compulsory acquisition of land for transmission and calling on EnergyCo to reassess all REZ transmission infrastructure requirements.",
+          "so_what": "The state's peak farming body formally debating a resolution to cut the New England REZ to 3GW converts scattered landholder grievance into an organised, policy-level position that closely tracks the Coalition's election pledge, hardening the social-licence and political headwinds against the zone's 8GW plan and its Muswellbrook-Walcha corridor. If carried, the motions give opponents a credible institutional mandate to press compulsory-acquisition and capacity limits into the March 2027 election, raising the risk of consultation disengagement and further pressure on EnergyCo's delivery timeline and route.",
+          "rez_tags": ["New England", "Hunter-Central Coast"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/07/20/changing-of-the-guard-as-hundreds-of-farmers-gather-to-chart-nsw-agricultures-future/",
+          "published": "2026-07-20",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Moree grazier Rebecca Reardon elected NSW Farmers president as conference wraps",
+          "summary": "Moree farmer Rebecca Reardon was elected president of the NSW Farmers Association, replacing outgoing president Xavier Martin as the annual conference concluded on 22 July. The change keeps the peak body's leadership in the New England region, which hosts the state's largest and most contested Renewable Energy Zone; the item is carried headline-and-standfirst only from a paid masthead.",
+          "so_what": "A New England-based president at the head of the state's peak farming body — during a live fight over the New England REZ, its transmission corridor and compulsory acquisition — signals that landholder concerns in the zone are likely to stay front-of-mind in the association's advocacy and its dealings with EnergyCo through the pre-election period; worth monitoring for any shift in the body's engagement posture.",
+          "rez_tags": ["New England"],
+          "source": "Northern Daily Leader",
+          "url": "https://www.northerndailyleader.com.au/story/9314942/rebecca-reardon-new-nsw-farmers-president-maps-future-strategy/",
+          "published": "2026-07-22",
+          "paywall": true
+        }
+      ]
+    }
+  ]
+}
