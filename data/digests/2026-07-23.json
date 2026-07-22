@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T09:11:00+10:00",
+  "posture": "Watch — the fresh signal in the 24 hours to Thursday morning is the outcome of the NSW Farmers Association annual conference (300+ delegates, Rosehill Gardens, wrapped 22 July): after two days of debate carried in yesterday's digest, the peak body has now formally CARRIED its energy-transition motions, converting scattered landholder grievance into settled association policy. Delegates passed a motion calling on the NSW Government to cut the New England REZ from 8GW to 3GW, a motion against compulsory acquisition of land for transmission lines, and a motion obliging EnergyCo to reassess all REZ transmission infrastructure requirements as new evidence emerges; they also backed motions opposing taxpayer subsidies for large-scale renewables and requiring independent baseline soil- and water-testing plus post-life rehabilitation on renewable developments. The 8GW-to-3GW resolution in particular hands the New England opposition an institutional mandate that closely tracks the Coalition's late-June pledge, ahead of the March 2027 state election. Alongside the motions, Energy Minister Penny Sharpe used the conference to announce a $14.5m Central-West Orana Telecommunications Infrastructure Uplift Program — administered by EnergyCo with the NSW Telco Authority, covering 900+ sq km, with providers able to apply for grants of up to 70% of project costs — a community-benefit measure carried here for situational awareness. Both items are free-sourced (New England Times / Mirage News); the fuller conference wrap and telco coverage on The Land sits behind an ACM paywall and is not separately carried. Everything heavier is a prior-digest carry-forward with no fresh movement in the window and is deduplicated out: yesterday's motions-being-debated framing and the Rebecca Reardon presidency; the 20 July EnergyCo sponsorship 'conflict of interest' flashpoint; Squadron Energy's 16 July decision not to proceed with the 426MW Boorolong wind project inside the New England REZ and the political fight it fed; the New England Draft REZ Access Scheme Declaration on exhibition (released 7 July, feedback by 6 August, declaration targeted end-September) with the EIS expected in the second half of 2026 and energisation targeted for 2032; the refined 1km Muswellbrook-Walcha corridor and its July-September field-investigation program (~150 landholders) against live Walcha High Country Guardians opposition and the 22,000-signature petition; EnergyCo's 15 July South West REZ Transgrid export-upgrade deed (3.56GW); the Illawarra REZ EOI round (early-July, ~$43bn of proposals); and on Central-West Orana the Port-to-REZ OSOM delivery campaign, the Main Road No. 709 gazettal, and ACEREZ's staged access-track works under stronger heritage controls with the DPHI rock-shelter assessment still open, plus the community roadshow flagged for 11-15 August. The standing posture is unchanged: the dominant exposures remain the New England political and social-licence contest ahead of the March 2027 state election, and the delivery and heritage risks on Central-West Orana.",
+  "summary": "The fresh development in the 24-hour window to Thursday 23 July morning is the conclusion of the NSW Farmers annual conference (Rosehill, wrapped 22 July): the peak body has now formally carried its energy motions, including a resolution calling on the NSW Government to cut the New England REZ from 8GW to 3GW, a motion against compulsory acquisition of land for transmission, and a motion obliging EnergyCo to reassess all REZ transmission requirements as evidence emerges — hardening the earlier 'debate' into settled association policy that tracks the Coalition's election pledge. Separately, Energy Minister Penny Sharpe announced a $14.5m Central-West Orana Telecommunications Infrastructure Uplift Program (EnergyCo with the NSW Telco Authority, 900+ sq km, grants up to 70% of cost) as a community-benefit measure. All other active threads — yesterday's conference-debate and Reardon-presidency items, the EnergyCo sponsorship flashpoint, the Squadron Boorolong exit, the New England Access Scheme exhibition, the corridor field investigations and Walcha opposition, the 15 July South West Transgrid deed, the Illawarra EOI round, and the Central-West Orana OSOM delivery and ACEREZ heritage matters — are prior-digest carry-forwards with no fresh movement and are deduplicated out.",
+  "counts": { "act": 0, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "NSW Farmers carries motions to cut New England REZ to 3GW and oppose compulsory land acquisition for transmission",
+          "summary": "As its annual conference wrapped on 22 July, the NSW Farmers Association formally carried a slate of energy-transition motions: a resolution calling on the NSW Government to reduce the New England REZ from 8GW to 3GW, a motion against compulsory acquisition of land for transmission lines, and a motion obliging EnergyCo to reassess all REZ transmission infrastructure requirements as new evidence emerges. Delegates also backed motions opposing taxpayer subsidies for large-scale renewables and requiring independent baseline soil- and water-testing with post-life land rehabilitation on renewable developments.",
+          "so_what": "The state's peak farming body moving from debate to a formally carried position — headlined by a call to cut the New England REZ to 3GW — converts landholder grievance into settled institutional policy that closely mirrors the Coalition's election pledge, materially hardening the social-licence and political headwinds against the zone's 8GW plan and its Muswellbrook-Walcha corridor. The carried anti-compulsory-acquisition and 'reassess all requirements' motions give opponents a credible mandate to press capacity limits and route challenges into the March 2027 state election, raising the risk of consultation disengagement and added pressure on EnergyCo's delivery timeline.",
+          "rez_tags": ["New England", "Hunter-Central Coast"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/07/22/nsw-premier-energy-minister-face-nsw-farmers-conference/",
+          "published": "2026-07-22",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Sharpe announces $14.5m Central-West Orana telecommunications uplift as a REZ community benefit",
+          "summary": "At the NSW Farmers conference on 22 July, Energy Minister Penny Sharpe announced a $14.5 million Central-West Orana Telecommunications Infrastructure Uplift Program to improve mobile coverage and high-speed internet across more than 900 square kilometres of the REZ region. The program will be administered by EnergyCo with the NSW Telco Authority, with telecommunications providers able to apply for grants covering up to 70% of project costs and applications opening in the coming months.",
+          "so_what": "A tangible, EnergyCo-administered community-benefit measure targeting known blackspots gives EnergyCo a positive social-licence counterweight in Central-West Orana just as landholder sentiment hardens on the New England front, and signals the Minns government's intent to keep pairing REZ delivery with visible local dividends ahead of the 2027 election. Worth tracking for uptake and delivery, since an under-subscribed or slow program could blunt the intended goodwill.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "Mirage News",
+          "url": "https://www.miragenews.com/14-5m-boost-for-central-west-orana-mobile-1714131/",
+          "published": "2026-07-22",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
