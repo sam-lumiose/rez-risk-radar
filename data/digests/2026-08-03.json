@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T09:49:00+10:00",
+  "posture": "Act — this Monday scan picks up a materially worse fortnight for EnergyCo's social licence. The lookback ran long by design: the automated job last published on 28 July, so items dated 29-31 July are captured here for the first time rather than lost to the gap, and each was checked against the prior three digests (26-28 July) to confirm it is genuinely new. Nothing dated across the 1-3 August weekend cleared the relevance bar, so the run is substantively a catch-up on late-July signals. The dominant one is decision-grade: on Wednesday 29 July the NSW Legislative Council's Portfolio Committee No. 4 tabled the final report of its two-year inquiry into REZs and regional communities, with 25 findings and 16 recommendations, concluding the rollout caused 'predictable and avoidable' harm, that the government failed to address known risks to agricultural productivity, land values and insurance availability, and specifically that EnergyCo failed its central coordinating role and that consultation gave affected communities no meaningful influence. Critically, the committee set a hard clock on the government: a detailed implementation plan for all accepted recommendations within three months (i.e. by end October 2026, with timelines, responsible agencies and measurable outcomes) and six-monthly progress reporting to Parliament — turning a critical report into a recurring accountability obligation that will run straight into the March 2027 state election, and it recommended EnergyCo provide mental-health support to affected landowners. It did not stay abstract: at its 28 July meeting Upper Hunter Shire Council resolved (all but one vote) to ask the State Government to halt land acquisition for the New England transmission corridor pending fresh economic and environmental analysis, citing a 'lack of meaningful engagement', concern that EnergyCo is acquiring land while its EIS is still being prepared, and an AEMO capacity downgrade — the first NSW council to formally call for an acquisition pause, and a template other corridor councils may copy. Lower down the stack, EnergyCo pushed its New England aerial survey (Muswellbrook-Armidale) from mid-July to September to avoid a sensitive farming period, a minor schedule slip framed as a goodwill concession. Standing exposures already logged are deduplicated out: the New England $60m and Central-West Orana community-benefit programs, ACEREZ's 10 August Round 2 grants (~$1.9m) and its rock-shelter remediation, the CWO community roadshow flagged for 11-15 August, the New England Access Scheme exhibition (feedback by 6 August), the NSW Farmers energy-transition motions, the Muswellbrook-Walcha corridor field program and Walcha High Country Guardians opposition, and the 15 July South West Transgrid deed. Paid mastheads (AFR, SMH, and the ACM regional titles that carried the inquiry and council stories — The Land, Newcastle Herald, the ACM regional network) surfaced only at headline level and were not opened; free substitutes (New England Times, 2NM, Moree Champion) carried the same items and are used as the primary sources. Net: the standing New England political and social-licence contest has escalated from background pressure to an on-the-record finding of institutional failure against EnergyCo, now with a fixed government-response deadline attached, and warrants a considered response now.",
+  "summary": "A NSW upper-house inquiry tabled its final report finding the REZ rollout caused 'predictable and avoidable' harm and that EnergyCo failed its central coordinating role, and gave the government three months to publish an implementation plan with six-monthly reporting to Parliament. Separately, Upper Hunter Shire Council became the first council to formally ask the state to pause New England land acquisition, and EnergyCo delayed its New England aerial survey to September to accommodate farmers. Items span 28-31 July, captured now because the job did not run over those days; nothing new surfaced across the 1-3 August weekend.",
+  "counts": { "act": 1, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Upper-house inquiry's final report finds EnergyCo failed its coordinating role and sets a three-month clock for a government response",
+          "summary": "On 29 July the NSW Legislative Council's Portfolio Committee No. 4 tabled the final report of its two-year inquiry into the impact of Renewable Energy Zones on rural and regional communities, with 25 findings and 16 recommendations. It concluded the rollout caused 'predictable and avoidable' harm, that the government failed to address known risks to agricultural productivity, land values and insurance availability, that EnergyCo failed to perform its central coordinating role, and that consultation gave affected communities no meaningful influence. The committee gave the government three months to publish a detailed implementation plan (with timelines, responsible agencies and measurable outcomes) and to report progress to Parliament every six months, and recommended EnergyCo provide mental-health support to affected landowners.",
+          "so_what": "This is a named, on-the-record finding of institutional failure against EnergyCo from a parliamentary committee, now with a fixed accountability mechanism attached — a plan due by roughly end October and recurring six-monthly reporting that will keep REZ governance in the news straight through to the March 2027 state election. It demands a formal, well-evidenced government response, hands opponents and the Coalition a durable narrative, and raises the consultation and planning bar EnergyCo must clear across all five zones; the mental-health-support recommendation also points to a concrete new landholder-facing obligation.",
+          "rez_tags": ["Central-West Orana", "New England", "Hunter-Central Coast", "Illawarra", "South West"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/07/30/new-england-rez-rollout-caused-avoidable-harm/",
+          "published": "2026-07-29",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Upper Hunter council becomes first to ask the state to pause New England land acquisition",
+          "summary": "At its 28 July meeting Upper Hunter Shire Council passed a notice of motion, with only one councillor opposed, asking the NSW Government to halt land-acquisition activity for the New England REZ transmission corridor until further economic and environmental analysis is done. Councillors cited a 'lack of meaningful engagement' with corridor landholders, concern that EnergyCo is acquiring land while its environmental impact statement is still being prepared, and an AEMO capacity downgrade, and resolved to write to the Premier, ministers, EnergyCo and local MPs.",
+          "so_what": "A local council formally calling for an acquisition pause is a step up from residents' groups and gives the opposition a governmental voice; landing days before the inquiry's final report, it reinforces the 'social licence eroded' theme the committee just validated. If other corridor councils copy the motion it could slow easement access and complicate acquisition timing while the EIS is still in preparation.",
+          "rez_tags": ["New England", "Hunter-Central Coast"],
+          "source": "2NM",
+          "url": "https://www.2nm.com.au/local-news/upper-hunter-shire-council-tackles-rez-concerns-scone-sports-facility-and-community-funding/",
+          "published": "2026-07-29",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "EnergyCo pushes New England aerial survey to September to avoid a sensitive farming period",
+          "summary": "EnergyCo has rescheduled aerial survey work over the Muswellbrook-Armidale corridor from mid-July to September after farming-community feedback, with the survey expected to take up to 10 days once it starts. It says it will fly higher than required, remove hover points and route around livestock concentrations to reduce disturbance, while still meeting overall planning timeframes.",
+          "so_what": "A minor schedule slip presented as a goodwill concession rather than a delivery problem, but it signals EnergyCo trimming field activity to manage landholder relations at exactly the moment the inquiry and Upper Hunter council are pressing it on engagement — worth tracking for further survey or investigation deferrals that could compress the corridor timeline.",
+          "rez_tags": ["New England"],
+          "source": "2NM",
+          "url": "https://www.2nm.com.au/local-news/energyco-delays-new-england-rez-aerial-survey-until-september/",
+          "published": "2026-07-30",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
