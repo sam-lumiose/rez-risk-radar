@@ -6,10 +6,24 @@
   },
   "digests": [
     {
+      "date": "2026-08-05",
+      "file": "data/digests/2026-08-05.json",
+      "posture": "Inform — clean run: nothing new cleared the REZ relevance bar across 4-5 August. Active threads (upper-house inquiry final report and its government-response clock, Upper Hunter's acquisition-pause call, deferred New England aerial survey) were logged in the 3 August digest and are deduplicated out; no government response to the inquiry yet. Empty digest published to preserve archive continuity.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-08-03",
       "file": "data/digests/2026-08-03.json",
       "posture": "Act — a Monday scan that runs long by design (the job last published 28 July) and captures a materially worse fortnight for EnergyCo's social licence; nothing new cleared the bar across the 1-3 August weekend. On 29 July the NSW upper house's Portfolio Committee No. 4 tabled the final report of its two-year REZ inquiry (25 findings, 16 recommendations), concluding the rollout caused 'predictable and avoidable' harm and finding specifically that EnergyCo failed its central coordinating role and that consultation gave communities no meaningful influence. Critically it set a hard clock — a government implementation plan due within three months and six-monthly reporting to Parliament — turning a critical report into a recurring accountability obligation into the March 2027 election, and recommended EnergyCo provide mental-health support to affected landowners. It did not stay abstract: on 28 July Upper Hunter Shire Council became the first council to formally ask the state to halt New England land acquisition pending fresh economic and environmental analysis. EnergyCo separately pushed its New England aerial survey to September to accommodate farmers. Standing exposures are deduplicated out; paid mastheads (AFR, SMH, The Land, Newcastle Herald and the ACM regional network) surfaced only at headline level with free substitutes used instead.",
-      "counts": { "act": 1, "watch": 1, "inform": 1 }
+      "counts": {
+        "act": 1,
+        "watch": 1,
+        "inform": 1
+      }
     },
     {
       "date": "2026-07-28",
