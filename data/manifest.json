@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-06",
+      "file": "data/digests/2026-08-06.json",
+      "posture": "Inform — a quiet scan with one dated procedural milestone: today (6 August) closes the public submission window on EnergyCo's draft New England REZ Access Scheme Declaration, which now passes to the Minister for Energy to weigh before any formal declaration. Every other live thread was logged in the 3 August digest and is deduplicated out (the upper-house inquiry final report and its end-October government-response clock, Upper Hunter's acquisition-pause call, the deferred New England aerial survey), and no government response to the inquiry has surfaced. Near-term milestones noted for awareness — ACEREZ Round 2 Central-West Orana grants open 10 August; CWO community roadshow 11–15 August. Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-05",
       "file": "data/digests/2026-08-05.json",
       "posture": "Inform — clean run: nothing new cleared the REZ relevance bar across 4-5 August. Active threads (upper-house inquiry final report and its government-response clock, Upper Hunter's acquisition-pause call, deferred New England aerial survey) were logged in the 3 August digest and are deduplicated out; no government response to the inquiry yet. Empty digest published to preserve archive continuity.",
