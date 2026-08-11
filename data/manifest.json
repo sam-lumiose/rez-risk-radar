@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-12",
+      "file": "data/digests/2026-08-12.json",
+      "posture": "Inform — a quiet mid-week scan with one dated, not-previously-logged community milestone now live: EnergyCo's Central-West Orana community roadshow is underway across 11–15 August (Coolah 11 Aug, Mudgee today 12 Aug, then Dubbo, Dunedoo, Wellington), logged as the day's single item because it was only ever flagged as an upcoming standing milestone and its run now falls in the window — the same treatment applied to the ACEREZ grants opening on 10 August. All other live threads are deduplicated out: the upper-house inquiry final report and its end-October government-response clock (no response yet), AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter's acquisition-pause call, the Squadron Boorolong withdrawal, the deferred New England aerial survey, the 6 August close of submissions on the draft New England Access Scheme Declaration (Minister to declare by end September), and the ACEREZ Round 2 ~$1.9m grants opened 10 August. Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-10",
       "file": "data/digests/2026-08-10.json",
       "posture": "Inform — a quiet Monday scan picking up the weekend, with one dated milestone. ACEREZ opens Round 2 of its ~$1.9m Central-West Orana community grants today (10 August); logged as the day's single item because, while flagged as upcoming context before, it has not previously been recorded as an item and its open date falls in today's window. All other live threads are deduplicated out: the upper-house inquiry final report and its end-October government-response clock (no response yet), AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter's acquisition-pause call, the Squadron Boorolong withdrawal, the deferred New England aerial survey, and the 6 August close of submissions on the draft New England Access Scheme Declaration. EnergyCo's CWO community roadshow runs 11–15 August (previously logged). Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened.",

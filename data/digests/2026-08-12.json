@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T08:58:00+10:00",
+  "posture": "Inform — a quiet mid-week scan with one dated, not-previously-logged community milestone now live. EnergyCo's Central-West Orana community roadshow is underway across 11–15 August (Coolah 11 Aug, Mudgee today 12 Aug, then Dubbo, Dunedoo and Wellington), and is logged below as the day's single item because, while repeatedly flagged as an upcoming standing milestone in prior digests, it has not previously been recorded as an item and its run now falls squarely in the current window — the same treatment applied to the ACEREZ grants opening on 10 August. Every other live thread was captured in earlier digests and is deduplicated out: the NSW Legislative Council Portfolio Committee No. 4 final report (tabled 29 July — 25 findings, 16 recommendations, 'predictable and avoidable' harm, a specific finding that EnergyCo failed its central coordinating role and that consultation gave communities no meaningful influence, and a roughly three-month clock to about end October for a government implementation plan with six-monthly reporting to Parliament); AEMO's downgrade of the New England REZ from 'actionable' to 'anticipated' and Upper Hunter Shire Council's 28 July call for the state to pause New England land acquisition and review project economics; Squadron Energy's mid-July abandonment of its 426 MW Boorolong wind farm; EnergyCo's deferral of the New England (Muswellbrook–Armidale) aerial survey to September; the 6 August close of submissions on EnergyCo's draft New England REZ Access Scheme Declaration, now with the Minister for Energy ahead of a formal declaration targeted by end September; and Round 2 of ACEREZ's ~$1.9m Central-West Orana community grants, opened 10 August and logged that day. No formal NSW Government response to the inquiry has yet surfaced, and no government-response deadline has passed. On delivery, the New England EIS remains expected to be lodged with Planning and go on public exhibition in the second half of 2026 (no lodgement yet), and Central-West Orana transmission construction continues — both context, not new signal. Paid mastheads (AFR, SMH and the ACM regional titles) surfaced only recycled coverage of the inquiry, corridor, construction, grants and roadshow stories at headline level and were not opened. Net: no new decision-grade or developing signal today; a single contextual community milestone logged to keep the archive continuous.",
+  "summary": "The only dated, not-previously-logged signal today is that EnergyCo's Central-West Orana community roadshow is now underway (11–15 August, with the Mudgee session today), a community-engagement milestone for the state's most-advanced zone that lands while the upper-house inquiry's 'no meaningful influence' finding is still fresh. All other active threads — the inquiry's final report and its end-October government-response clock (no response yet), AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter Council's acquisition-pause call, the Squadron Boorolong withdrawal, the deferred New England aerial survey, the 6 August close of submissions on the draft New England Access Scheme Declaration (Minister to declare by end September), and the ACEREZ Round 2 grants opened 10 August — were captured in earlier digests and are deduplicated out.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "EnergyCo's Central-West Orana community roadshow now underway across five towns (11–15 August)",
+          "summary": "EnergyCo has begun a week-long community roadshow across the Central-West Orana Renewable Energy Zone, with sessions at Coolah (11 Aug), Mudgee (12 Aug), Dubbo (13 Aug), Dunedoo (14 Aug) and Wellington (15 Aug). The drop-in events offer residents the latest project information and direct access to government agencies, infrastructure providers and industry to discuss local jobs, business opportunities and community-benefit programs.",
+          "so_what": "The roadshow is EnergyCo's most direct face-to-face engagement lever in the state's most-advanced zone, and it runs while the upper-house inquiry's finding that REZ consultation gave communities 'no meaningful influence' is still fresh and the ACEREZ Round 2 grants are just open — making the tone, turnout and any on-the-ground grievances aired at these sessions an early read on whether engagement credibility is improving. Watch regional coverage (Dubbo, Mudgee) and community-group commentary over the week for signals on landholder and social-licence sentiment ahead of the New England EIS exhibition later in 2026.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/our-projects/central-west-orana-renewable-energy-zone",
+          "published": "2026-08-11",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
