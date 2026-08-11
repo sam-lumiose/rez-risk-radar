@@ -6,6 +6,26 @@
   },
   "digests": [
     {
+      "date": "2026-08-10",
+      "file": "data/digests/2026-08-10.json",
+      "posture": "Inform — a quiet Monday scan picking up the weekend, with one dated milestone. ACEREZ opens Round 2 of its ~$1.9m Central-West Orana community grants today (10 August); logged as the day's single item because, while flagged as upcoming context before, it has not previously been recorded as an item and its open date falls in today's window. All other live threads are deduplicated out: the upper-house inquiry final report and its end-October government-response clock (no response yet), AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter's acquisition-pause call, the Squadron Boorolong withdrawal, the deferred New England aerial survey, and the 6 August close of submissions on the draft New England Access Scheme Declaration. EnergyCo's CWO community roadshow runs 11–15 August (previously logged). Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
+      "date": "2026-08-08",
+      "file": "data/digests/2026-08-08.json",
+      "posture": "Inform — a clean weekend scan: nothing across 7–8 August both clears the REZ relevance bar and is genuinely new against the prior three digests (5–7 August). The live threads (upper-house inquiry final report and its end-October government-response clock, Upper Hunter's acquisition-pause call, the deferred New England aerial survey, and the 6 August close of submissions on the draft New England Access Scheme Declaration) were logged earlier and are deduplicated out; no NSW Government response to the inquiry yet. Near-term milestones noted for awareness — ACEREZ Round 2 Central-West Orana grants open 10 August; CWO community roadshow 11–15 August. Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened. Empty digest published to preserve archive continuity.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 0
+      }
+    },
+    {
       "date": "2026-08-07",
       "file": "data/digests/2026-08-07.json",
       "posture": "Inform — a clean run: nothing new cleared the REZ relevance bar across 6–7 August. Active threads (upper-house inquiry final report and its end-October government-response clock, Upper Hunter's acquisition-pause call, deferred New England aerial survey, and the 6 August close of submissions on the draft New England Access Scheme Declaration) were logged in the 3–6 August digests and are deduplicated out; no NSW Government response to the inquiry yet. Near-term milestones noted for awareness — ACEREZ Round 2 Central-West Orana grants open 10 August; CWO community roadshow 11–15 August. Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened. Empty digest published to preserve archive continuity.",
