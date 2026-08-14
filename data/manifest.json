@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-14",
+      "file": "data/digests/2026-08-14.json",
+      "posture": "Inform — a quiet end-of-week scan with one dated, not-previously-logged community-benefit signal: the NSW Government has opened a new ~$1.4m Smart Farming (agtech) program for primary producers inside the Central-West Orana REZ (grants up to $35,000, covering 70% of eligible technology costs), unveiled by the Energy Minister around the National Renewables in Agriculture Conference in Dubbo (12 August) and logged as the day's single item as a fresh, dated benefit-sharing measure. All other live threads are deduplicated out: the upper-house inquiry final report and its end-October government-response clock (no response yet), AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter's acquisition-pause call, the Squadron Boorolong withdrawal, the deferred New England aerial survey, the 6 August close of submissions on the draft New England Access Scheme Declaration (Minister to declare by end September), the ACEREZ Round 2 ~$1.9m grants (opened 10 August) and EnergyCo's CWO community roadshow (11–15 August, Dunedoo today). Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-12",
       "file": "data/digests/2026-08-12.json",
       "posture": "Inform — a quiet mid-week scan with one dated, not-previously-logged community milestone now live: EnergyCo's Central-West Orana community roadshow is underway across 11–15 August (Coolah 11 Aug, Mudgee today 12 Aug, then Dubbo, Dunedoo, Wellington), logged as the day's single item because it was only ever flagged as an upcoming standing milestone and its run now falls in the window — the same treatment applied to the ACEREZ grants opening on 10 August. All other live threads are deduplicated out: the upper-house inquiry final report and its end-October government-response clock (no response yet), AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter's acquisition-pause call, the Squadron Boorolong withdrawal, the deferred New England aerial survey, the 6 August close of submissions on the draft New England Access Scheme Declaration (Minister to declare by end September), and the ACEREZ Round 2 ~$1.9m grants opened 10 August. Paid mastheads (AFR, SMH, ACM titles) carried only recycled coverage at headline level and were not opened.",
