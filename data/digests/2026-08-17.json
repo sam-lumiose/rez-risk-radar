@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T18:08:06+10:00",
+  "posture": "Act — water emerges as the first hard, quantified constraint on New England REZ construction, with Armidale Regional Council formally refusing to allocate council water to any REZ project until the state commits binding funding to an ~$800m regional water security package.",
+  "summary": "The weekend and Monday scan is dominated by New England. A long-form regional report sets out the council's 'no water, no REZ' position alongside EnergyCo's own commissioned study, which models REZ water demand exceeding treatment capacity in six of eleven local government areas at peak — a delivery constraint that lands squarely ahead of the New England EIS lodgement expected later this year. Two live consultations that had not previously been logged also surface: a draft amendment to the New England REZ Declaration closing 3 September, and the Community and Employment Benefit Program consultation closing 18 September. On social licence the picture is now visibly two-sided, with drought-affected landholders publicly backing the REZ while a proposed energy hub and workforce camp near Walcha divides another part of the same community, and the Opposition Leader's first regional visit keeps pre-election policy uncertainty live.",
+  "counts": { "act": 1, "watch": 4, "inform": 2 },
+  "sections": [
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Armidale council formally withholds water from REZ projects until the state funds a regional water security package",
+          "summary": "Armidale Regional Council has adopted a mayoral minute resolving not to allocate council water supplies to any REZ generation or transmission project until the NSW Government makes a clear and binding commitment to resolve the region's water security deficit, with the full package the council has put forward costed at around $800 million. EnergyCo's own water and wastewater security study, prepared by Jacobs, models REZ construction demand peaking around 2031 and exceeding water treatment capacity in six of eleven local government areas under peak demand, including Armidale, Uralla and Walcha.",
+          "so_what": "This converts a diffuse community grievance into a single, quantified, council-controlled precondition on construction sequencing — and it is EnergyCo's own study that supplies the evidence base. It needs an owned response and a funding pathway across EnergyCo, DCCEEW Water and Treasury before the New England EIS is lodged, or water becomes the critical path for the transmission build slated to start in 2028.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/08/15/no-water-no-rez-how-armidale-is-using-the-rez-as-leverage-to-fix-a-decade-old-problem/",
+          "published": "2026-08-15",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "EnergyCo consults on amending the New England REZ Declaration to describe the network, with submissions closing 3 September",
+          "summary": "EnergyCo has released a draft amendment to the New England REZ Declaration for community and industry feedback, proposing to add a detailed description of the network infrastructure — including the energy hubs and the transmission lines that run outside the REZ boundary to connect to the existing grid at Bayswater. EnergyCo states the amendment does not change the REZ boundary, its 8 GW intended network capacity, or the network infrastructure project as scoped, and is intended to align the declaration with current planning before the Access Scheme is declared later this year.",
+          "so_what": "This is the sequencing step that must land cleanly before the New England Access Scheme declaration targeted for around end September, so any slippage or contested submissions flow directly into the access-scheme timetable that developers are pricing against. It also formally puts the out-of-zone Bayswater connection into the declared instrument, which invites scrutiny from landholders along that corridor during an already hostile consultation period.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/our-projects/new-england-rez",
+          "published": "2026-08-11",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Drought-hit New England landholders go public in favour of hosting wind, solar and transmission",
+          "summary": "Farmers around Uralla told a specialist energy outlet that hosting generation and transmission is central to their debt reduction and succession plans after the region's dry year, with transmission hosting typically paid per kilometre and indexed over twenty years. They expressed frustration that outside opposition and the Opposition's policy shift could remove that income, and one landholder characterised the majority of the region as supportive of the REZ.",
+          "so_what": "A visible pro-REZ landholder constituency is a material asset for EnergyCo's social licence position, which has been defined almost entirely by opposition voices in recent months — but it also signals a community splitting along economic lines, and creates a group with a direct financial grievance if the project is scaled back. Engagement and benefit-sharing messaging should account for both sides rather than treating the region as uniformly opposed.",
+          "rez_tags": ["New England"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/its-literally-life-changing-for-us-the-drought-stricken-farmers-looking-to-wind-and-solar-to-secure-their-future/",
+          "published": "2026-08-17",
+          "paywall": false
+        },
+        {
+          "severity": "watch",
+          "headline": "Proposed Walcha-area energy hub and temporary workers' camp reported as dividing the local community",
+          "summary": "A regional masthead reports community division over a potential site outside Walcha identified for the Central South Energy Hub together with temporary workforce accommodation. Item taken at headline level only from a subscription masthead and flagged for manual read.",
+          "so_what": "Co-locating a substation with a large temporary workforce camp concentrates amenity, housing and water pressures on one small community at exactly the point EnergyCo is asking the region for cooperation on water. Worth confirming the notification approach to adjacent landholders and the accommodation strategy before the EIS goes on exhibition.",
+          "rez_tags": ["New England"],
+          "source": "Northern Daily Leader",
+          "url": "https://www.northerndailyleader.com.au/story/9329178/proposed-energy-hub-sparks-community-division/",
+          "published": "2026-08-12",
+          "paywall": true
+        },
+        {
+          "severity": "inform",
+          "headline": "New England benefit-program consultation on the initial $60m fund now has a firm 18 September close",
+          "summary": "EnergyCo is seeking feedback to shape the design of the New England REZ Community and Employment Benefit Program, which is intended to fund local infrastructure, services and employment, with a community survey open. The consultation now carries a stated closing date of 18 September 2026.",
+          "so_what": "A dated close gives the benefit program a concrete milestone that can be pointed to in engagement, and the design outcome is one of the few levers available to offset the water, workforce-accommodation and corridor grievances currently dominating the New England conversation.",
+          "rez_tags": ["New England"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/our-projects/new-england-rez/community-employment-benefit-program",
+          "published": "2026-08-11",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Opposition Leader's first New England visit keeps pre-election REZ uncertainty live",
+          "summary": "The NSW Opposition Leader travelled to the New England region with the Nationals leader and the local member, meeting selected groups understood to oppose the REZ and holding a brief press conference at Walcha, having previously settled the policy to cap the zone and forgo the new transmission line without visiting. Local figures quoted in the coverage said the shifting position, rather than its content, is the main problem for planning.",
+          "so_what": "With a state election due in March, sustained policy ambiguity raises the risk premium for developers and network-operator bidders and gives landholders a reason to defer signing options and easements. EnergyCo should expect access-scheme and network-operator processes to be read through an election lens and plan its assurance messaging accordingly.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/08/15/no-water-no-rez-how-armidale-is-using-the-rez-as-leverage-to-fix-a-decade-old-problem/",
+          "published": "2026-08-15",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "NSW sets data-centre rules requiring developers to bring their own power and water in exchange for faster approvals",
+          "summary": "The NSW Government announced that data centres will have to fund their own electricity and water requirements, including new network connections and power purchase agreements, in return for an approval decision within 75 days, with legislation introduced to parliament. The Energy Minister said the sector could account for around 11 per cent of state power demand by 2030.",
+          "so_what": "A bring-your-own-generation obligation on a fast-growing demand source strengthens the long-run offtake case for REZ-connected projects and supports the Roadmap's investment thesis. The parallel water condition is also a useful precedent to cite in the New England water negotiation, where EnergyCo is pressing proponents to secure supply outside town systems.",
+          "rez_tags": ["All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/state-sats-data-centres-will-get-faster-nod-if-they-meet-energy-grid-and-water-needs/",
+          "published": "2026-08-17",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
