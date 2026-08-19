@@ -1,0 +1,84 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T05:25:00+10:00",
+  "posture": "Act — the delivery and regulatory feeds were quiet, but the social-licence signal sharpened materially. A community forum at Walcha put unverified claims about overseas construction crews and camp-related crime into the New England REZ debate, and the organisers traced the nationality claim back to what neighbours say they were told by ACEREZ during Central-West Orana community meetings. That is a reputational exposure that implicates the network operator's own engagement and warrants a same-week decision on correcting the record.",
+  "summary": "The one material item in the last 24 hours is the reported content of an anti-REZ forum at Walcha, where about 200 people were told to expect a crime wave from imported construction workers at New England REZ camps — claims the reporting outlet could not verify and on which EnergyCo was approached for comment. Two developing items sit behind it: Armidale Regional Council has formally lodged its water security project into the state assessment system, keeping its 'no water, no REZ' condition alive with first construction not expected before late 2028; and the Victorian Opposition has committed to scrapping VNI West, the interconnector planned to link Victoria into the NSW grid in the state's south-west. EnergyCo, AEMO Services, ACEREZ and the planning portal published nothing new in the window; AFR and SMH could not be scanned this run (their domains are not retrievable by the agent), so no paid-source items appear today.",
+  "counts": { "act": 1, "watch": 2, "inform": 2 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Anti-REZ forum at Walcha aired unverified claims tying workers' camps to crime and to single-nationality overseas crews",
+          "summary": "About 200 people attended a community forum at the Walcha Bowling Club, organised by Voice for Walcha and the Walcha High Country Guardians, at which speakers said residents living near New England REZ construction camps should brace for rising crime and asserted that construction crews are drawn from single overseas nationalities. The outlet that attended reported the claims could not be verified and approached the organisers, EnergyCo and the NSW energy minister for comment; the organisers said the nationality claim reflected what camp neighbours in the Central-West Orana REZ told visiting Walcha residents and councillors, and attributed the explanation to ACEREZ community meetings.",
+          "so_what": "The New England opposition narrative has moved off easements and process and onto workforce, camp security and foreign ownership — framing that is harder to rebut with technical facts and that now implicates the network operator's own community briefings. EnergyCo needs a position this week on correcting the record about camp management and workforce composition, and should separately note the organisers' claim that Walcha Shire is carrying the assessment load with a single planner against Mid-Western's eight.",
+          "rez_tags": ["New England", "Central-West Orana"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/they-are-not-locked-in-anti-renewables-meeting-targets-immigrant-workers-amid-litany-of-wild-claims/",
+          "published": "2026-08-19",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Fact-check knocks down a viral post claiming farmers destroyed a wind turbine",
+          "summary": "AAP FactCheck, republished by RenewEconomy, found that a widely shared Facebook post falsely attributed a collapsed wind turbine to sabotage by Victorian farmers. The post was circulating as anti-wind campaign material.",
+          "so_what": "The incident itself is Victorian and carries no direct NSW REZ consequence, but it is a same-day illustration of the misinformation channel that also ran through the Walcha forum. Worth logging in community-sentiment monitoring rather than answering; the pattern matters more than the individual post.",
+          "rez_tags": ["All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/fact-check-collapsed-wind-turbine-was-not-blown-up-by-victorian-farmer-as-claimed-on-social-media/",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Armidale's water security project enters state assessment, keeping the council's 'no water, no REZ' condition live",
+          "summary": "Armidale Regional Council has lodged a scoping report with the NSW planning department for a two-stage water security project — reinstating Oaky River Dam with transfer pipelines to Armidale and Uralla, then raising the Malpas Dam spillway by 6.5 metres — formally starting the State Significant Infrastructure assessment. The department will now set the assessment requirements, an EIS and public exhibition follow, and Stage 1 construction is expected to start in late 2028 subject to approval and funding.",
+          "so_what": "The council resolved in May to withhold its water from the New England REZ until the state funds and delivers this package, so REZ construction water is now tethered to a project only at scoping stage with first works at least two years away. EnergyCo should plan New England construction water on the assumption the condition holds through the EIS period, and get clarity on where the state funding commitment actually sits.",
+          "rez_tags": ["New England"],
+          "source": "New England Times",
+          "url": "https://www.netimes.com.au/2026/08/19/armidale-takes-major-step-forward-on-long-term-water-security/",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Victorian Opposition commits to cancelling VNI West if it wins the November state election",
+          "summary": "The Victorian Liberal and National parties said they would scrap the VNI West transmission project, costed at between $7.6 billion and $11.4 billion, and pursue gas, longer coal operation and metropolitan solar parks instead. The Victorian government and the Clean Energy Council called the pledge reckless while the Victorian Farmers Federation welcomed it, and the Coalition also flagged a review of the Western Renewables Link.",
+          "so_what": "VNI West is planned to connect Victoria into the NSW grid in the state's south-west, so a change of Victorian government in November becomes a live scenario for South West REZ export capacity and the value of access rights there. It also gives New England opponents a second high-profile precedent that transmission commitments are reversible at an election — the same argument already running against the New England line.",
+          "rez_tags": ["South West"],
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-08-19/victorian-coalition-promises-to-scrap-vni-west-transmission-line/107053638",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Squadron Energy seeks a Victorian retail licence, its first move into selling power directly",
+          "summary": "Squadron Energy has applied to the Victorian energy regulator for a licence to retail electricity to selected commercial and industrial customers, with consultation open until mid-September and a parallel retail authorisation application lodged with the AER. The developer said last week it had refinanced its $2.7 billion wind portfolio, and has around 1.5 GW of wind operating plus the 414 MW Uungula project under construction at Wellington in NSW.",
+          "so_what": "Squadron is a counterparty across the Central-West Orana pipeline, so its strategy and balance sheet feed directly into connection sequencing assumptions. Retailing could firm up offtake for its NSW projects, but it also adds wholesale price risk in a segment where Zen Energy's recent collapse showed thin hedging can sink new entrants — monitor as a counterparty-strength signal, no action.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/twiggy-forrests-squadron-energy-seeks-retail-licence-to-sell-renewable-electricity-to-select-businesses/",
+          "published": "2026-08-19",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
