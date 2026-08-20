@@ -1,0 +1,52 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T09:08:00+10:00",
+  "posture": "Act — the New England water constraint hardened overnight from a council resolution into a quantified, publicly stated precondition. Armidale's mayor put a figure of more than $500 million on the water-security funding the council wants before it will release water for REZ transmission or construction, and did so in the same week the council lodged its scoping report with the planning department. The council owns all the water infrastructure in its local government area, which makes this a third-party control over a construction input EnergyCo does not hold, and it is the item that warrants a decision this week. The regulatory, delivery and supply-chain feeds were otherwise quiet: EnergyCo, ACEREZ, AEMO and the economic regulators published nothing new in the window.",
+  "summary": "One material signal and two market-side items in the last 24 hours. The New England REZ water dispute escalated from a June council resolution to a costed public demand, with EnergyCo, the energy minister and the state Opposition all now on the record. On the financing side, federal Labor amended its capital gains tax bill to extend the 50 per cent concession for foreign renewables investors out to 2040, and a legal commentary questioned whether the proposed national ESEM contracts will be bankable for independent developers — a mechanism whose expected central buyer is the same entity that runs NSW's REZ access-right and LTESA tenders. No new items from EnergyCo, ACEREZ, AEMO, AER, AEMC, IPART or the NSW planning portal.",
+  "counts": { "act": 1, "watch": 1, "inform": 1 },
+  "sections": [
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "Armidale mayor puts a half-billion-dollar price on the water the New England REZ needs, and says the council controls the tap",
+          "summary": "Armidale's mayor told an energy outlet the New England REZ should proceed only if the NSW government funds a water-security upgrade he estimates at more than $500 million, restating a June council resolution that no water will be released for REZ transmission or construction until that commitment is given. The council, which owns all the water infrastructure in its local government area, lodged a scoping report with the NSW planning department on Wednesday covering restoration of Oaky River Dam plus a pipeline to Armidale and Uralla, and a later raising of the Malpas Dam spillway. Armidale is on stage-2 restrictions and has had roughly half its normal rainfall this year. EnergyCo said town water and critical human needs are prioritised over construction use under the Water Management Act and that it is working with councils; the energy minister's office said water security issues predate the REZ and are being worked through with councils; the Opposition's Northern Tablelands MP said the shortfall exists regardless of the zone's size.",
+          "so_what": "This converts a community grievance into a hard delivery dependency: a third party outside EnergyCo's control holds a consentable input to New England construction and has publicly named its price. EnergyCo's statutory answer — that town water outranks construction water — does not resolve the commercial question of who funds the headworks, and leaving it unfunded gives the council a standing lever it can pull at any point in the build, including during the March state election campaign in which the Opposition has pledged to scrap the zone. A funded pathway or a written water-supply arrangement needs to be on the table before the New England EIS goes on exhibition.",
+          "rez_tags": ["New England"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/not-a-bunch-of-yokels-armidale-mayor-lays-down-no-water-no-rez-demands-as-region-turns-dry/",
+          "published": "2026-08-20",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Lawyer warns the proposed national central-buyer contracts may not be bankable for independent developers",
+          "summary": "A commentary by a Gilbert + Tobin partner argues that the Electricity Services Entry Mechanism — the permanent central-buyer framework proposed to replace the Capacity Investment Scheme from 2027, with AusEnergy Services Limited the expected counterparty — is designed around tradeable, standardised instruments that limited-recourse lenders may not accept. The preferred bulk-energy instrument settles against a reference fleet's average price rather than a project's own metered output, which the author says leaves developers carrying volume, basis and 'reference drift' risk over a 15 to 20 year debt tenor, with no close international precedent. He calls for an independent bankability assessment to be published alongside the term sheets expected in November 2026, ahead of final templates in 2027 and a first tender late that year. The piece does not discuss NSW or the REZs.",
+          "so_what": "The entity expected to sit as ESEM central buyer is the same one that acts as NSW Consumer Trustee and runs REZ access-right and LTESA tenders, so the two contracting layers will be judged by the same credit committees. If ESEM instruments prove hard to debt-size, the effect falls hardest on the independent developers and SPVs that make up much of the pipeline seeking REZ access rights, tilting the field toward gentailers and balance-sheet players and thinning competitive tension in future NSW tenders. Worth tracking the November term sheets as an early read on REZ bidder depth.",
+          "rez_tags": ["All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/the-esems-contract-co-design-paradox-will-financiers-actually-bank-it/",
+          "published": "2026-08-20",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Foreign investors in Australian renewables win a decade's extra runway on capital gains tax",
+          "summary": "Federal Labor amended its capital gains tax legislation in parliament on Thursday to extend the 50 per cent concession for foreign investors in renewable energy assets from mid-2030 to mid-2040, a change pushed by Greens and cross-bench MPs. Industry groups had warned the original four-year discount window risked prompting foreign owners to sell down before 2030 and then stop investing, and noted that around 70 per cent of clean energy capital in Australia comes from offshore. One cross-bencher said she would keep pressing for a statutory review in 2035.",
+          "so_what": "Removes a near-term forced-sale risk hanging over the ownership of REZ-connected generation and storage assets, and improves the odds that offshore capital stays available for projects working toward final investment decisions inside the zones. It is a de-risking event rather than a new exposure, but it is relevant background to counterparty assessments of overseas-owned proponents holding or bidding for NSW access rights.",
+          "rez_tags": ["All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/wind-and-solar-investors-relieved-after-greens-and-cross-bench-win-10-year-reprieve-on-new-tax-on-renewables/",
+          "published": "2026-08-20",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
