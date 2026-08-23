@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-24",
+      "file": "data/digests/2026-08-24.json",
+      "posture": "Inform — a near-clean Monday scan with one item logged. The overnight window (Sunday 23 August into Monday morning) produced almost nothing new against the prior three digests: EnergyCo's newsroom has not published since 21 August, ACEREZ since 24 July, WattClarity since Saturday 22 August and RenewEconomy's only 23 August pieces were the wind-host decommissioning feature already logged yesterday and a retail-tariff commentary with no REZ nexus. New England Times, the region's free masthead, published nothing REZ-related over the weekend. The one item that clears the bar is a Victorian energy-policy piece that adds new facts to a thread first logged on 20 August: the VNI West transmission contract with Iberdrola is already signed, so the Coalition's pledge to scrap it now carries a live termination-liability question, and the state auditor-general's finding that the line is two years late and will not land until 2030 — two years after Yallourn closes — sharpens the transmission-versus-coal-closure timing problem. Live threads unchanged and deduplicated out: the Armidale 'no water, no REZ' condition and its state assessment; the upper-house inquiry's end-October government-response clock; AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter Shire's acquisition-pause call; the first four National Environmental Standards made 19 August with approval tests not commencing until on or before 1 December; PEC Stage 2 six weeks from go-live with constraint equations still in AEMO pre-production; the New England Access Scheme Declaration awaiting the Minister ahead of a target of end September; and the Hunter-Central Coast solar-and-battery sod-turn at Muswellbrook. Source gap to note: afr.com and smh.com.au could not be retrieved by the automated agent, so AFR and SMH were not scanned even at headline level today; the ACM regional titles surfaced only recycled coverage already logged.",
+      "counts": {
+        "act": 0,
+        "watch": 0,
+        "inform": 1
+      }
+    },
+    {
       "date": "2026-08-23",
       "file": "data/digests/2026-08-23.json",
       "posture": "Watch — a quiet weekend scan with no item warranting a decision, but two threads worth holding. The New England water constraint that drove Friday's 'act' call did not move over the weekend, and the region's mastheads and community channels published nothing new. What did move is delivery-side and mostly constructive: the first generation project to connect to the Hunter-Central Coast REZ turned soil at Muswellbrook, and the New England battery is close to formal grid sign-off. Against that, Project EnergyConnect Stage 2 is now under six weeks from go-live with its new constraint equations still sitting in AEMO's pre-production systems, and the first four National Environmental Standards were made on 19 August with the approval tests they govern not commencing until on or before 1 December.",

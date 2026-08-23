@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T06:05:00+10:00",
+  "posture": "Inform — a near-clean Monday scan with one item logged. The overnight window (Sunday 23 August into Monday morning) produced almost nothing new against the prior three digests: EnergyCo's newsroom has not published since 21 August, ACEREZ since 24 July, WattClarity since Saturday 22 August and RenewEconomy's only 23 August pieces were the wind-host decommissioning feature already logged yesterday and a retail-tariff commentary with no REZ nexus. New England Times, the region's free masthead, published nothing REZ-related over the weekend. The one item that clears the bar is a Victorian energy-policy piece that adds new facts to a thread first logged on 20 August: the VNI West transmission contract with Iberdrola is already signed, so the Coalition's pledge to scrap it now carries a live termination-liability question, and the state auditor-general's finding that the line is two years late and will not land until 2030 — two years after Yallourn closes — sharpens the transmission-versus-coal-closure timing problem. Live threads unchanged and deduplicated out: the Armidale 'no water, no REZ' condition and its state assessment; the upper-house inquiry's end-October government-response clock; AEMO's New England 'actionable'-to-'anticipated' downgrade and Upper Hunter Shire's acquisition-pause call; the first four National Environmental Standards made 19 August with approval tests not commencing until on or before 1 December; PEC Stage 2 six weeks from go-live with constraint equations still in AEMO pre-production; the New England Access Scheme Declaration awaiting the Minister ahead of a target of end September; and the Hunter-Central Coast solar-and-battery sod-turn at Muswellbrook. Source gap to note: afr.com and smh.com.au could not be retrieved by the automated agent, so AFR and SMH were not scanned even at headline level today; the ACM regional titles surfaced only recycled coverage already logged.",
+  "summary": "One item logged from a quiet weekend-into-Monday window. Victoria's signed $7.6 billion VNI West contract with Iberdrola, and the Coalition's promise to tear it up 100 days out from the November election, raises a contract-termination question that reads directly across to EnergyCo's own contracted network operators. Every other active REZ thread was captured in the 20, 21 and 23 August digests and is deduplicated out; AFR and SMH were unreachable today and were not scanned.",
+  "counts": { "act": 0, "watch": 0, "inform": 1 },
+  "sections": [
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Victoria's cross-border transmission line is already under contract, turning an election promise to scrap it into a termination-liability question",
+          "summary": "Reporting on Victoria's November election set out that the state government has already signed a build contract with Iberdrola for the 240 km VNI West line into NSW, and that cancelling it — as the Coalition has pledged, alongside a pause and review of the Western Renewables Link — could expose Victorian taxpayers to liability payments. The same piece notes the state auditor-general's finding that the project is two years behind schedule and will not be finished until 2030, two years after the Yallourn coal plant closes.",
+          "so_what": "The relevant read-across for EnergyCo is not the Victorian politics but the precedent: a transmission project can reach a signed network-operator contract and still face cancellation at an election, with the cost landing on the state. With the NSW Coalition already committed to scaling back regional REZs, EnergyCo's counterparty arrangements with ACEREZ and Transgrid carry the same structural exposure, and the Yallourn timing gap is a reminder that a slipped transmission date against a fixed coal-closure date is the reliability risk that gets attributed to the delivery agency.",
+          "rez_tags": ["South West"],
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-08-23/victoria-energy-supply-labor-coalition-election/107065912",
+          "published": "2026-08-23",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
