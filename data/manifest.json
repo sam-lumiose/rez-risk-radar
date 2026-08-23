@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-23",
+      "file": "data/digests/2026-08-23.json",
+      "posture": "Watch — a quiet weekend scan with no item warranting a decision, but two threads worth holding. The New England water constraint that drove Friday's 'act' call did not move over the weekend, and the region's mastheads and community channels published nothing new. What did move is delivery-side and mostly constructive: the first generation project to connect to the Hunter-Central Coast REZ turned soil at Muswellbrook, and the New England battery is close to formal grid sign-off. Against that, Project EnergyConnect Stage 2 is now under six weeks from go-live with its new constraint equations still sitting in AEMO's pre-production systems, and the first four National Environmental Standards were made on 19 August with the approval tests they govern not commencing until on or before 1 December.",
+      "counts": {
+        "act": 0,
+        "watch": 2,
+        "inform": 4
+      }
+    },
+    {
       "date": "2026-08-21",
       "file": "data/digests/2026-08-21.json",
       "posture": "Act — the New England water constraint hardened overnight from a council resolution into a quantified, publicly stated precondition. Armidale's mayor put a figure of more than $500 million on the water-security funding the council wants before it will release water for REZ transmission or construction, and did so in the same week the council lodged its scoping report with the planning department. The council owns all the water infrastructure in its local government area, which makes this a third-party control over a construction input EnergyCo does not hold, and it is the item that warrants a decision this week. The regulatory, delivery and supply-chain feeds were otherwise quiet: EnergyCo, ACEREZ, AEMO and the economic regulators published nothing new in the window.",

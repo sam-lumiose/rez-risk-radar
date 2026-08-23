@@ -1,0 +1,95 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T19:05:00+10:00",
+  "posture": "Watch — a quiet weekend scan with no item warranting a decision, but two threads worth holding. The New England water constraint that drove Friday's 'act' call did not move over the weekend, and the region's mastheads and community channels published nothing new. What did move is delivery-side and mostly constructive: the first generation project to connect to the Hunter-Central Coast REZ turned soil at Muswellbrook, and the New England battery is close to formal grid sign-off. Against that, Project EnergyConnect Stage 2 is now under six weeks from go-live with its new constraint equations still sitting in AEMO's pre-production systems, and the first four National Environmental Standards were made on 19 August with the approval tests they govern not commencing until on or before 1 December.",
+  "summary": "Six items across four days of feed (Friday afternoon to Sunday), none of them adverse to EnergyCo. Delivery news dominated: construction started on the 135 MW solar farm and 100 MW battery at Muswellbrook, the first generation project to connect to the Hunter-Central Coast REZ, and ACEN's 200 MW New England battery is finalising its R2 grid sign-off as curtailment eases at the adjacent solar farm. The two items to carry forward are the Project EnergyConnect Stage 2 commissioning sequence and the commencement timing of Australia's first National Environmental Standards, both of which bear on REZ transmission scheduling.",
+  "counts": {
+    "act": 0,
+    "watch": 2,
+    "inform": 4
+  },
+  "sections": [
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Australia's first national environmental standards are made, but the approval tests they govern do not start until December",
+          "summary": "The Commonwealth made the first four National Environmental Standards on 19 August, drawing a qualified welcome from developers and criticism from conservation groups that they do not go far enough. The standards do not bind assessments until the new approval tests commence, which is due on or before 1 December 2026.",
+          "so_what": "REZ transmission and the larger connected generation projects are assessed federally as well as under NSW planning law, so the standards will eventually shape the biodiversity and offset evidence EnergyCo and its network operators must assemble. The gap between the standards being made and the tests commencing is the window in which to test whether projects entering federal assessment late this year face a changed evidentiary bar mid-stream.",
+          "rez_tags": ["New England", "Central-West Orana", "Hunter-Central Coast", "South West", "Illawarra"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/australias-first-environmental-standards-promise-protection-but-raise-concerns/",
+          "published": "2026-08-21",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Project EnergyConnect Stage 2 is six weeks from go-live with its new constraint equations still only in AEMO's pre-production systems",
+          "summary": "Market analysts traced odd-looking export and import limits for the NSW–SA interconnector in AEMO's medium-term PASA data to the fact that the new and modified constraint equations for Project EnergyConnect Stage 2 have been loaded into pre-production but not yet into production systems, so the modelling falls back to generic hold-point limits. AEMO's final go-live plan schedules the production deployments for mid-September, ahead of a 1 October start.",
+          "so_what": "Until the real constraints land in production, medium-term forecasts of transfer capability across the NSW–SA boundary should not be read as indicative, which matters for anyone modelling South West REZ export capability or connection sequencing over summer. It also puts a dated dependency on the calendar: if the mid-September deployment slips, the 1 October go-live is the next thing to move.",
+          "rez_tags": ["South West"],
+          "source": "WattClarity",
+          "url": "https://wattclarity.com.au/articles/2026/08/19aug-pec-mtpasa-results-hypothesis/",
+          "published": "2026-08-22",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "First generation project to connect to the Hunter-Central Coast REZ starts construction on a closed coal mine outside Muswellbrook",
+          "summary": "EnergyCo announced that construction has begun on a 135 MW solar farm and 100 MW battery on a former coal mine site near Muswellbrook, the first major generation and storage project to connect to the Hunter-Central Coast REZ. The developer expects grid connection in late 2027 and operation by 2028, with around 200 construction jobs and an annual community benefit payment to the local council.",
+          "so_what": "This is the first demonstration that the Hunter-Central Coast approach of upgrading existing distribution rather than building new transmission converts into connected generation, and it gives EnergyCo a concrete, low-conflict delivery reference to set against the contested New England corridor. It also starts the clock on the Ausgrid capacity upgrade meeting its 2028 date, since projects are now sequenced behind it.",
+          "rez_tags": ["Hunter-Central Coast"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/construction-begins-landmark-hunter-central-coast-rez-solar-farm-and-battery-project",
+          "published": "2026-08-21",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "New England's 200 MW battery is finalising formal grid sign-off, and curtailment at the neighbouring solar farm has eased",
+          "summary": "The 200 MW, 400 MWh battery alongside the New England solar farm is close to completing its post-commissioning model validation and grid sign-off, with the owner expecting full operation by year's end. The same owner reported higher first-half generation and revenue, attributing part of the improvement to reduced grid curtailment at the New England solar farm.",
+          "so_what": "A completed connection process in the New England REZ, and measurable relief in curtailment, are useful counterweights to the argument that projects there cannot get connected or cannot earn. The builder also has two further batteries in the region, one in planning, so New England storage pipeline depth is holding up despite the transmission timetable.",
+          "rez_tags": ["New England"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/grid-battery-next-to-australias-biggest-solar-farm-nears-completion-as-pv-curtailment-eases/",
+          "published": "2026-08-21",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "State opens a $1.5 million apprentice-hosting scheme aimed at the Central-West Orana REZ workforce targets",
+          "summary": "The NSW Government opened applications for a $1.5 million group training organisation program for the Central-West Orana REZ, run by a not-for-profit provider with EnergyCo and the education department. It lets employers host apprentices only for the length of a contract, with the provider re-placing them when a project ends, and is framed as helping industry meet the REZ requirement for a minimum share of apprentices and learning workers.",
+          "so_what": "Workforce continuity across contract boundaries is one of the quieter delivery risks in a REZ build, and this is a direct mitigation for it. It is also a social-licence asset: a mechanism that keeps trained local workers in the region between projects is a better answer to the imported-workforce claims circulating in New England than a media response.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "NSW Government",
+          "url": "https://www.nsw.gov.au/ministerial-releases/minns-labor-government-backs-central-west-orana-apprentices-renewable-energy-jobs",
+          "published": "2026-08-21",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Turbine-hosting farmers describe how they handled decommissioning liability, using collective bargaining and a per-turbine escrow fund",
+          "summary": "A group of landholders hosting turbines at a recently built NSW wind farm said decommissioning is not a significant worry for them, and described negotiating collectively and securing an escrow fund to cover intermediate risks. The project sits outside the five declared renewable energy zones.",
+          "so_what": "Decommissioning liability and abandoned-turbine imagery are recurring arguments in New England and Central-West Orana landholder meetings, and this is a rare on-the-record host account running the other way. The escrow and collective-negotiation model is worth noting as something landholder groups in the zones may start asking EnergyCo and developers to match.",
+          "rez_tags": ["New England", "Central-West Orana"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/its-not-a-big-deal-how-these-wind-turbine-hosts-manage-decommissioning-and-maintenance-issues/",
+          "published": "2026-08-23",
+          "paywall": false
+        }
+      ]
+    }
+  ],
+  "notes": "Source-gap note: afr.com, smh.com.au, theaustralian.com.au, theguardian.com and reuters.com block this agent's user agent and could not be scanned in this run, even at headline level. No paywall was bypassed or attempted. The ACM regional mastheads were checked at headline level; the Newcastle Herald carried the Muswellbrook construction start behind its paywall on 21 August and was deduplicated against the EnergyCo release. theland.com.au returned no article list and is unverified for this window. Items considered and dropped on the relevance test: a national test of the rooftop-solar emergency backstop (22 August) and commentary on retail solar tariffs (23 August), both without a NSW REZ nexus. Because the previous digest ran on Friday morning, this run covers the Friday-afternoon-to-Sunday gap rather than a strict 24 hours."
+}
