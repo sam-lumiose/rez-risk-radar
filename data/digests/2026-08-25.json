@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T05:12:00+10:00",
+  "posture": "Act — the demand side of the NSW grid moved faster than the supply side overnight, and it now carries a deadline. The state's data centre connection reform, aired at a government webinar on Monday, put a number on the queue: 28 GW of connection applications with 13 GW in advanced discussions, against an average daily state demand of 7.5–10 GW, and a proposed Major Network Upgrade Fee of $200,000 per megawatt in the Sydney–Newcastle–Wollongong region that would be paid into the Electricity Infrastructure Fund. Consultation closes 14 September, which makes a submission decision this week's call. Against that, AEMO's 2026 Electricity Statement of Opportunities published overnight is directionally good news — the near-term reliability threat has been pushed into the next decade — but its new 'committed and anticipated' lens, which discounts projects with delivery uncertainty, still shows the NSW reliability standard exceeded by 2030–31, and it counts the New England REZ Network Infrastructure Project inside the Retailer Reliability Obligation framework. On the social-licence side, two REZ-located batteries have been pushed to the Independent Planning Commission purely on objection volume, most of it from non-local repeat submitters. Source gap to note: afr.com, smh.com.au, theaustralian.com.au and theguardian.com could not be retrieved by the automated agent today, so AFR, SMH, The Australian and Guardian Australia were not scanned even at headline level; the ACM regional mastheads were scanned and published nothing REZ-related in the window.",
+  "summary": "Four items cleared the bar in the 24-hour window to Tuesday morning, all from the free trade press. The one requiring a decision is the NSW data centre network reform, where a 28 GW connection queue and a new per-megawatt upgrade fee flowing into the Electricity Infrastructure Fund are open for comment until 14 September. AEMO's 2026 ESOO improves the headline reliability outlook but keeps a 2030–31 NSW breach on the table once delivery uncertainty is applied, and two batteries inside the South West and New England REZs have been referred to the Independent Planning Commission on objection numbers alone.",
+  "counts": { "act": 1, "watch": 2, "inform": 1 },
+  "sections": [
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "NSW puts a price on data centre grid connections as the application queue reaches roughly triple the state's average demand",
+          "summary": "A NSW government webinar on Monday set out the scale of the data centre connection queue: about 28 GW of applications as at last month, of which 13 GW are in advanced discussions, against an average daily state demand of 7.5–10 GW. The accompanying DCCEEW consultation paper proposes a Major Network Upgrade Fee with a default rate of $200,000 per megawatt in the Sydney–Newcastle–Wollongong region and $100,000 per megawatt elsewhere, payable into the Electricity Infrastructure Fund before a connection agreement is executed, with comment open until 14 September.",
+          "so_what": "Load of this size lands on the same network EnergyCo is planning REZ generation into, and the fee is routed through the Roadmap's own funding vehicle — so the reform bears directly on network headroom, sequencing and cost allocation for the Hunter-Central Coast and Illawarra zones in particular. The 14 September closing date makes a decision on whether and how EnergyCo responds a matter for this week rather than next month.",
+          "rez_tags": ["Hunter-Central Coast", "Illawarra", "All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/hefty-network-fees-discussed-as-state-government-reveals-massive-scale-of-data-centre-grid-connection-demands/",
+          "published": "2026-08-24",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "AEMO's annual reliability outlook improves, but its new delivery-risk lens still shows NSW breaching the standard by 2030–31",
+          "summary": "AEMO's 2026 Electricity Statement of Opportunities pushes the immediate reliability threat to Australia's main grid into the next decade, with NSW, South Australia and Victoria assessed as reliable to 2033–34 on the strength of a record 9.1 GW of new generation and storage connected in the year just ended. AEMO also introduced a separate 'committed and anticipated developments' assessment covering projects with greater delivery uncertainty, and on that basis the NSW reliability standard may be exceeded from 2030–31; the New England REZ Network Infrastructure Project is counted among the projects inside the Retailer Reliability Obligation framework.",
+          "so_what": "AEMO has effectively published a second, harsher reliability scenario that turns on whether projects like New England arrive on time, and it has named the New England network project inside that frame — which converts EnergyCo's schedule risk into a publicly quantified statewide reliability number. The report also notes that a change of government at the NSW election could throw the state's largest REZ into doubt, so the delivery and political threads are now being read together by the market operator.",
+          "rez_tags": ["New England", "All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/new-renewables-and-batteries-improve-grid-reliability-outlook-but-more-needs-to-get-built-on-time-aemo-says/",
+          "published": "2026-08-25",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Two batteries inside the South West and New England zones are pushed to the planning commission on objection volume alone",
+          "summary": "The Romani battery near Booroorban in the South West REZ and the Ebor battery in the New England REZ have each attracted more than 60 objections, which under the current NSW threshold automatically sends a project to the Independent Planning Commission once objections pass 50, regardless of where the objectors live. Reporting indicates most submissions came from a network of repeat, geographically distant objectors raising recycled claims, and that the state government is considering lifting the threshold to 100 and discounting out-of-area submissions.",
+          "so_what": "The referral trigger is a volume test, not a merits test, so an organised out-of-area campaign can add months of assessment time to any generation or storage project seeking to connect under a REZ access scheme — a schedule risk EnergyCo carries indirectly through its access-rights holders. Any change to the threshold is worth tracking closely, because it would materially change the approval timetable assumptions built into REZ connection sequencing.",
+          "rez_tags": ["South West", "New England"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/a-trojan-horse-for-communism-more-big-batteries-head-for-review-as-familiar-long-distance-objectors-pile-in-again/",
+          "published": "2026-08-24",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Post-2030 contract design firms up, with a settled structure for bulk energy and a cap on the firming product",
+          "summary": "The contract co-design working group developing the proposed Electricity Services Energy Mechanism has agreed on a preferred structure — a regional reference power purchase agreement for bulk energy, alongside separate shaping and firming products — and on a firming price cap of $600 per megawatt hour. The mechanism, put forward as the successor to the federal Capacity Investment Scheme, still requires sign-off from all governments, and investor and industry groups have flagged that the firming design may under-reward long-duration storage.",
+          "so_what": "This is the revenue framework the next wave of NSW REZ access-rights holders will need to bank, and it advances the bankability question flagged in the 21 August digest from an open design problem to a set of concrete parameters. If the firming design does undervalue long-duration storage, it bears on the storage build that the Roadmap's long-duration targets and the REZs' firming profile both assume.",
+          "rez_tags": ["All NSW REZs"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/post-2030-contract-design-for-new-renewables-takes-shape-as-working-group-agrees-on-firming-price-caps/",
+          "published": "2026-08-24",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
