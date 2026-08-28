@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-28",
+      "file": "data/digests/2026-08-28.json",
+      "posture": "Act — NSW has quietly rewritten the approvals pathway that has been the single largest schedule risk to REZ-connected generation and storage, and the change is already in force.",
+      "counts": {
+        "act": 1,
+        "watch": 2,
+        "inform": 6
+      }
+    },
+    {
       "date": "2026-08-25",
       "file": "data/digests/2026-08-25.json",
       "posture": "Act — the demand side of the NSW grid moved faster than the supply side overnight, and it now carries a deadline. The state's data centre connection reform, aired at a government webinar on Monday, put a number on the queue: 28 GW of connection applications with 13 GW in advanced discussions, against an average daily state demand of 7.5–10 GW, and a proposed Major Network Upgrade Fee of $200,000 per megawatt in the Sydney–Newcastle–Wollongong region that would be paid into the Electricity Infrastructure Fund. Consultation closes 14 September, which makes a submission decision this week's call. Against that, AEMO's 2026 Electricity Statement of Opportunities published overnight is directionally good news — the near-term reliability threat has been pushed into the next decade — but its new 'committed and anticipated' lens, which discounts projects with delivery uncertainty, still shows the NSW reliability standard exceeded by 2030–31, and it counts the New England REZ Network Infrastructure Project inside the Retailer Reliability Obligation framework. On the social-licence side, two REZ-located batteries have been pushed to the Independent Planning Commission purely on objection volume, most of it from non-local repeat submitters. Source gap to note: afr.com, smh.com.au, theaustralian.com.au and theguardian.com could not be retrieved by the automated agent today, so AFR, SMH, The Australian and Guardian Australia were not scanned even at headline level; the ACM regional mastheads were scanned and published nothing REZ-related in the window.",

@@ -1,0 +1,133 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T12:19:50+10:00",
+  "posture": "Act — NSW has quietly rewritten the approvals pathway that has been the single largest schedule risk to REZ-connected generation and storage, and the change is already in force.",
+  "summary": "The state planning minister has lifted the objection count that forces a state significant energy project to the Independent Planning Commission from 50 to 100, disallowed submissions from interstate and overseas objectors, and removed standalone grid-scale batteries from the referral pathway altogether, effective 19 August. Projects already in the pipeline, including the Ebor and Romani batteries in the New England and South West zones, still face a commission review. The rest of the scan is demand-side: an AI developer's interest in up to five gigawatts of NSW data centre capacity, explicitly flagged for locations outside Sydney, sits unresolved alongside a federal standards package that national cabinet did not settle this week. No digest ran on 26 or 27 August, so the scan window was widened to cover 26–28 August; EnergyCo's own newsroom has not published since 21 August.",
+  "counts": { "act": 1, "watch": 2, "inform": 6 },
+  "sections": [
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "act",
+          "headline": "NSW doubles the objection threshold that sends energy projects to the planning commission, and lifts batteries out of the pathway entirely",
+          "summary": "The NSW planning minister has changed the rules so that state significant energy, data centre and resource projects are only referred to the Independent Planning Commission at 100 or more objections rather than 50, with submissions from interstate and overseas objectors no longer counted and standalone grid-scale batteries excluded from referral altogether. The department said the referral trigger had been affecting close to nine in ten renewable energy projects and adding as much as 300 days to assessment; the changes took effect from 19 August.",
+          "so_what": "This removes what has been the biggest single source of unplanned schedule slippage for generation and storage projects seeking to connect inside the zones, and EnergyCo should re-baseline the approvals assumptions sitting behind its access scheme pipelines and connection dates. The carve-out is not retrospective, so the Ebor and Romani batteries in the New England and South West zones remain exposed to a commission review and should stay on the delivery watchlist.",
+          "rez_tags": ["New England", "South West", "All zones"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/planning-rules-changed-to-stop-long-distance-agitators-hijacking-wind-solar-and-battery-approvals/",
+          "published": "2026-08-27",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Internal state emails show an AI developer sounded out NSW about five gigawatts of data centre capacity, and pointed it outside Sydney",
+          "summary": "Emails released to NSW parliament show an Infrastructure NSW executive relaying a US artificial intelligence company's interest in siting up to five gigawatts of AI training capacity in the state, with the note that there was an opportunity to place it outside Sydney. Industry figures put Australia's entire current data centre fleet at about 1.6 gigawatts, growing to a projected 3.9 gigawatts by 2030.",
+          "so_what": "A single prospective load several times the size of the national fleet, aimed at regional NSW, would not fit inside the headroom the access schemes were sized for, and EnergyCo needs a view on whether large connected load is a competitor for REZ network capacity or a foundation customer for it. The disclosure also lands while the state's new 75-day data centre assessment pathway is being stood up, so the two workstreams should be reconciled.",
+          "rez_tags": ["All zones"],
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-08-26/claude-maker-anthropics-massive-data-centre-plans-nsw/107075532",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Federal industry delegation tours the Upper Hunter looking at investment on post-mining land",
+          "summary": "The federal industry minister led a cross-agency delegation to Muswellbrook to examine investment options on former mining land in the Upper Hunter, including energy, fabrication, defence and rail proposals. Coverage was accessed as a public headline and standfirst only.",
+          "so_what": "New industrial and connected-load proposals inside the Hunter-Central Coast footprint change the demand picture the Hunter Transmission Project and the zone's access scheme were framed against. Worth reading in full to see whether any proposal implies a connection request EnergyCo has not yet captured.",
+          "rez_tags": ["Hunter-Central Coast"],
+          "source": "Newcastle Herald",
+          "url": "https://www.newcastleherald.com.au/story/9337177/tim-ayres-details-leads-government-delegation-to-upper-hunter-to-discuss-investment-opportunities/",
+          "published": "2026-08-26",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Federal minister denies states won fossil fuel exemptions from the data centre renewables mandate, leaving the standards unsettled",
+          "summary": "The federal energy minister rejected suggestions that Coalition-led states and territories had secured fossil fuel carve-outs from proposed renewable energy requirements for data centres, after national cabinet considered the package this week. The government is not expected to legislate the standards until early 2027.",
+          "so_what": "Until it is settled whether new data centre load must bring matching renewable supply, EnergyCo cannot firm up how much of the coming demand growth converts into REZ generation and storage demand rather than existing thermal capacity. That ambiguity flows straight into access scheme sizing and the case for further network staging.",
+          "rez_tags": ["All zones"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/breaking-no-carve-outs-for-states-over-renewables-mandate-for-data-centres-bowen-says/",
+          "published": "2026-08-28",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "An anti-transmission farmer group rebrands as a national movement, and landholders hosting infrastructure report intimidation",
+          "summary": "A group founded in western Victoria to oppose a contested transmission line is now promoting itself as a national movement against renewables on farmland, with federal political figures headlining its fundraising. A farmer who invited a wind developer onto his property described sustained intimidation from neighbours and has raised the pattern with the Australian Energy Infrastructure Commissioner.",
+          "so_what": "The reported dynamic is the same one EnergyCo's easement and turbine hosts face in New England and Central-West Orana, and a nationally organised campaign raises the odds of it being imported into NSW corridors. It is worth confirming that landholder support arrangements cover harassment of hosts, not just valuation and compensation.",
+          "rez_tags": ["All zones"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/intimidation-and-bullying-as-some-anti-wind-farmers-stage-a-fightback-others-are-counting-the-cost/",
+          "published": "2026-08-26",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Prime Minister frames social licence as central to powering the AI build-out",
+          "summary": "Rural masthead coverage reports the Prime Minister linking community consent to the energy demands of the artificial intelligence and data centre build-out, in the context of the data centre framework before national cabinet. Accessed as a public headline and standfirst only.",
+          "so_what": "Social licence being named at the national level as the constraint on energy-hungry development lends weight to the community benefit and consultation programs already running in the zones. It also signals that regional opposition to data centre load and opposition to REZ infrastructure are being argued as one issue, which raises the reputational spillover risk for EnergyCo.",
+          "rez_tags": ["Central-West Orana", "All zones"],
+          "source": "The Land",
+          "url": "https://www.theland.com.au/story/9338395/anthony-albanese-social-licence-critical-for-ai-energy-future/",
+          "published": "2026-08-27",
+          "paywall": true
+        }
+      ]
+    },
+    {
+      "category": "Delivery, Schedule & Cost",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Transgrid puts a $4.1 billion figure on the regional value generated by Project EnergyConnect over three years",
+          "summary": "An assessment reported this week valued the social, economic and environmental benefits Project EnergyConnect delivered to regional communities at roughly $4.1 billion over the three years to June 2026. The interconnector runs through the South West zone's footprint.",
+          "so_what": "This is a usable precedent for quantifying regional benefit from a transmission build, which is exactly the evidence gap EnergyCo faces when arguing the community case for its own corridors. The methodology is worth examining before the next round of South West and New England community engagement.",
+          "rez_tags": ["South West", "Project EnergyConnect"],
+          "source": "pv magazine Australia",
+          "url": "https://www.pv-magazine-australia.com/2026/08/28/energyconnect-delivers-4-1-billion-in-social-value-over-three-years/",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "First NEM project approved under a single hybrid generator performance standard finishes construction in central-western NSW",
+          "summary": "A 98 megawatt solar farm paired with a 20 megawatt, 40 megawatt-hour battery near Parkes has completed construction and is exporting, and is described as the first project in the national market registered under one combined generator performance standard rather than separate ones. The site sits outside the declared Central-West Orana boundary.",
+          "so_what": "A single hybrid performance standard removes a known source of connection delay for co-located solar and storage, which is the dominant configuration in the REZ access scheme pipelines. EnergyCo and the network operators should confirm whether the same treatment is available to hybrid applicants inside the zones.",
+          "rez_tags": ["Central-West Orana"],
+          "source": "pv magazine Australia",
+          "url": "https://www.pv-magazine-australia.com/2026/08/27/build-wraps-up-on-nems-first-hybrid-98-mw-solar-and-4-mwh-bess/",
+          "published": "2026-08-27",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "Scan gaps logged for the 26 to 28 August window",
+          "summary": "EnergyCo's newsroom has not published since 21 August and ACEREZ since 24 July. AEMO's market notices page could not be verified because it renders client-side, and The Guardian Australia, the Australian Financial Review, the Sydney Morning Herald and The Australian were not reachable, so those five sources are unscanned rather than clear for this window.",
+          "so_what": "The absence of an act-grade item from the regulators and the agency itself is a genuine signal of a quiet week, but the AEMO and paid-masthead gaps mean a market notice or a market-moving report could have been missed. A manual check of AEMO market notices and the AFR energy pages is the cheapest way to close it.",
+          "rez_tags": ["All zones"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/latest-updates",
+          "published": "2026-08-28",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
