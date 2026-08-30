@@ -6,6 +6,16 @@
   },
   "digests": [
     {
+      "date": "2026-08-30",
+      "file": "data/digests/2026-08-30.json",
+      "posture": "Watch — a quiet weekend for delivery, but the political risk to the New England REZ moved from regional grievance to declared party platform. The federal energy minister confirmed on Friday afternoon that the NSW Opposition has pledged to cancel a major transmission line and downgrade the New England REZ if it wins the March state election, and said Canberra will not respond until after the poll — which leaves a seven-month window of contracting and acquisition activity running against an explicit cancellation threat. On Sunday, One Nation used a farmer rally in western Victoria to adopt a platform of stripping the state transmission planner's compulsory acquisition powers and abolishing the renewable energy zone the rally sat inside, drawing a crowd of about a thousand with Pauline Hanson and Barnaby Joyce on the platform. Nothing in that event touches a NSW REZ directly, but it is the next beat of the national anti-transmission movement logged on 28 August, and the two policy levers it names — acquisition powers and REZ declarations — are precisely the instruments EnergyCo depends on. On social licence, a Sydney battery conference put a usable number on cumulative impact: communities tend to turn against further development around the third project in a region, regardless of how well the fourth is run, and Central-West Orana was named directly. Source gap to note: afr.com, smh.com.au and theaustralian.com.au could not be retrieved by the automated agent, so AFR, SMH and The Australian were not scanned even at headline level; the ACM regional mastheads are searchable but their index lags the scan window, so a weekend regional story cannot be ruled out.",
+      "counts": {
+        "act": 0,
+        "watch": 2,
+        "inform": 3
+      }
+    },
+    {
       "date": "2026-08-28",
       "file": "data/digests/2026-08-28.json",
       "posture": "Act — NSW has quietly rewritten the approvals pathway that has been the single largest schedule risk to REZ-connected generation and storage, and the change is already in force.",

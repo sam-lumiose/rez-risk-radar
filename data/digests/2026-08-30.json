@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T20:40:00+10:00",
+  "posture": "Watch — a quiet weekend for delivery, but the political risk to the New England REZ moved from regional grievance to declared party platform. The federal energy minister confirmed on Friday afternoon that the NSW Opposition has pledged to cancel a major transmission line and downgrade the New England REZ if it wins the March state election, and said Canberra will not respond until after the poll — which leaves a seven-month window of contracting and acquisition activity running against an explicit cancellation threat. On Sunday, One Nation used a farmer rally in western Victoria to adopt a platform of stripping the state transmission planner's compulsory acquisition powers and abolishing the renewable energy zone the rally sat inside, drawing a crowd of about a thousand with Pauline Hanson and Barnaby Joyce on the platform. Nothing in that event touches a NSW REZ directly, but it is the next beat of the national anti-transmission movement logged on 28 August, and the two policy levers it names — acquisition powers and REZ declarations — are precisely the instruments EnergyCo depends on. On social licence, a Sydney battery conference put a usable number on cumulative impact: communities tend to turn against further development around the third project in a region, regardless of how well the fourth is run, and Central-West Orana was named directly. Source gap to note: afr.com, smh.com.au and theaustralian.com.au could not be retrieved by the automated agent, so AFR, SMH and The Australian were not scanned even at headline level; the ACM regional mastheads are searchable but their index lags the scan window, so a weekend regional story cannot be ruled out.",
+  "summary": "Two political items and one social-licence item clear the bar from a thin weekend scan. The material signal is that cancellation of the New England REZ network project is now explicit Opposition policy ahead of the March NSW election, with no federal response until after it. Nothing published by EnergyCo, ACEREZ, AEMO Services, the AER, the AEMC, IPART or the Independent Planning Commission in the window; the NSW Planning Portal exhibition list could not be read and should be checked manually on Monday.",
+  "counts": {
+    "act": 0,
+    "watch": 2,
+    "inform": 3
+  },
+  "sections": [
+    {
+      "category": "Political & Policy",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Federal minister confirms the NSW Opposition will campaign on cancelling a major line and shrinking the New England zone, and says Canberra will wait out the election",
+          "summary": "Speaking to RenewEconomy on Friday afternoon, the federal energy minister said new transmission is needed regardless of the renewables build, pointing to rising demand and decades of underinvestment. Asked about both the Victorian Opposition's pledge to scrap VNI West and the NSW Opposition's pledge to cancel a major line and downgrade the New England REZ before the March state election, he said the government is watching and will respond only after voters have decided.",
+          "so_what": "This puts a dated political cliff in front of the largest zone in the portfolio: EnergyCo will keep contracting, acquiring easements and progressing the New England network project for roughly seven months against a stated intention to downgrade it, with no federal backstop signalled in the interim. The risk register should now carry an explicit sovereign/policy-reversal exposure for New England — termination and stranding liability on commitments entered before March, and a counterparty question about whether developers will keep bidding into a scheme an alternative government has said it will shrink.",
+          "rez_tags": ["New England", "South West"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/no-word-on-snowy-2-0-as-bowen-underlines-importance-on-transmission-they-are-not-being-built-for-fun/",
+          "published": "2026-08-28",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Social Licence & Community",
+      "items": [
+        {
+          "severity": "watch",
+          "headline": "Battery conference puts a threshold on cumulative impact — communities turn at about the third project, and Central-West Orana is named as an example",
+          "summary": "At an industry conference in Sydney, the head of a network and developer collaboration body told battery developers that social acceptance decides whether projects proceed, and that by roughly the third renewable development in a region most communities begin refusing further projects regardless of how well a later entrant behaves. She pressed developers on visual amenity, on giving landholders early certainty that decommissioning liability will not fall to them, and on pooling community benefit contributions rather than making token payments; residents of the Central-West Orana zone were cited directly as people for whom these impacts are not abstract.",
+          "so_what": "The cumulative-impact threshold is the most operationally useful framing to reach the digest this month, and it maps onto EnergyCo's problem rather than any single developer's: the zones concentrate multiple projects into the same communities by design, so opposition compounds at a portfolio level while consent is negotiated project by project. It supports a case for EnergyCo coordinating benefit programs, workforce accommodation and decommissioning assurance across proponents in each zone, and it flags that Central-West Orana — the most advanced zone — is also the furthest along that curve.",
+          "rez_tags": ["Central-West Orana", "All zones"],
+          "source": "RenewEconomy",
+          "url": "https://reneweconomy.com.au/paint-the-bloody-things-green-big-battery-developers-are-facing-local-push-back-are-they-ready/",
+          "published": "2026-08-28",
+          "paywall": false
+        },
+        {
+          "severity": "inform",
+          "headline": "A minor party adopts abolishing renewable energy zones and stripping compulsory acquisition powers as declared policy at a farmer rally",
+          "summary": "One Nation previewed its Victorian energy policy to a crowd of about a thousand at a Farmers Fightback rally in Marnoo in western Victoria, with Pauline Hanson and Barnaby Joyce appearing alongside the party's state leader. The party said that in government it would remove the Victorian transmission planner's compulsory acquisition powers for the contested interconnector and abolish the renewable energy zone the rally was held inside; its leader would not say how existing contracts would be unwound, and deferred detail to a launch at a coal power station the following day.",
+          "so_what": "No NSW zone or EnergyCo instrument is touched by this event, so it is logged for awareness rather than action — but it is the next escalation of the national anti-transmission movement recorded on 28 August, and it is the first time the two specific legal levers EnergyCo relies on, REZ declaration and compulsory acquisition, have been named together as things to be repealed. With a NSW election in March and a NSW Opposition already committed to a New England downgrade, the read-across is that acquisition powers are becoming campaignable, which raises the reputational cost of every contested easement decision taken between now and then.",
+          "rez_tags": ["Cross-jurisdictional"],
+          "source": "ABC News",
+          "url": "https://www.abc.net.au/news/2026-08-30/one-nation-energy-policy-vni-west/107094846",
+          "published": "2026-08-30",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Market, Financial & Counterparty",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Networks lobby publishes modelling arguing cancelling the Victoria-NSW interconnector raises costs rather than saving them",
+          "summary": "Energy Networks Australia released independent modelling by Endgame Analytics arguing that abandoning the $7.6 billion VNI West link would not avoid cost, because generation, storage, firming and other network investment would still be required to hold reliability. The modelling projects Victorian wholesale prices around $20 per megawatt hour higher on average from the mid-2030s, above $40 per megawatt hour late in that decade with the gap persisting to 2050, six separate years above $210 per megawatt hour peaking at $236, and 20 to 28 petajoules a year more gas burnt in the southern states; it finds NSW only marginally better off without the link.",
+          "so_what": "The direct NSW exposure is modest on these numbers, but the item matters as evidence in a fight EnergyCo has a stake in: it is the first quantified rebuttal to the cancel-the-line position that both the Victorian and NSW Oppositions have adopted, and the same argument — that cancelling transmission moves cost rather than removing it — is the one EnergyCo will need in defensible form for the New England project before March. Worth noting for the record that the modelling is commissioned by the network owners' peak body, so treat the framing accordingly.",
+          "rez_tags": ["South West"],
+          "source": "Energy Networks Australia",
+          "url": "https://www.energynetworks.com.au/news/scrapping-vni-west-will-cost-consumers-new-modelling-shows/",
+          "published": "2026-08-28",
+          "paywall": false
+        }
+      ]
+    },
+    {
+      "category": "Regulatory & Approvals",
+      "items": [
+        {
+          "severity": "inform",
+          "headline": "Scan gaps and clean checks logged for the 28 to 30 August window",
+          "summary": "EnergyCo published nothing after 21 August, ACEREZ nothing after 24 July, and AEMO Services, the AER, the AEMC, IPART and the Independent Planning Commission published nothing in the window. Three source gaps are recorded: the NSW Planning Portal major projects exhibition list, AEMO's newsroom and market notices, and the AER news feed all failed to render for the automated agent, and afr.com, smh.com.au and theaustralian.com.au refused retrieval entirely, so those three mastheads were not scanned even at headline level. The ACM regional titles were searchable but their search index currently lags the scan window by more than a week.",
+          "so_what": "The Planning Portal gap is the one that matters, since a weekend EIS exhibition or determination for a REZ-located project would not have surfaced; it should be checked manually on Monday. Two diary items also fall due within days and are already on the register: submissions on the New England REZ draft declaration amendment close on 3 September, and the Illawarra REZ community reference group holds its first meeting on 31 August.",
+          "rez_tags": ["All zones"],
+          "source": "EnergyCo NSW",
+          "url": "https://www.energyco.nsw.gov.au/latest-updates",
+          "published": "2026-08-30",
+          "paywall": false
+        }
+      ]
+    }
+  ]
+}
